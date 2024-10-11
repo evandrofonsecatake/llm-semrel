@@ -1,0 +1,723 @@
+{
+  "é" : [ {
+    "word" : "é",
+    "description" : "Forma conjugada do verbo 'ser' na terceira pessoa do singular do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "existe", "está" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "sê" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "não é", "não está" ]
+    } ]
+  }, {
+    "word" : "ébano",
+    "description" : "Ébano é um tipo de madeira densa e escura, geralmente extraída de árvores do gênero Diospyros.",
+    "relations" : [ {
+      "synonym_of" : [ "pau-preto" ]
+    }, {
+      "hypernym_of" : [ "madeira" ]
+    }, {
+      "hyponym_of" : [ "Diospyros ebenum", "Diospyros crassiflora" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "árvore de ébano" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ébrio",
+    "description" : "Pessoa que está embriagada ou sob efeito de álcool.",
+    "relations" : [ {
+      "synonym_of" : [ "embriagado", "bêbado", "alcoolizado" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ébano", "ébrio" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "sóbrio" ]
+    } ]
+  }, {
+    "word" : "ébrios",
+    "description" : "A palavra 'ébrios' é o plural de 'ébrio', que significa alguém que está embriagado ou bêbado.",
+    "relations" : [ {
+      "synonym_of" : [ "embriagados", "bêbados", "alcoolizados" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "sóbrios" ]
+    } ]
+  }, {
+    "word" : "écloga",
+    "description" : "Um poema pastoral ou bucólico, geralmente em forma de diálogo, que descreve a vida campestre de maneira idealizada.",
+    "relations" : [ {
+      "synonym_of" : [ "idílio", "bucólica" ]
+    }, {
+      "hypernym_of" : [ "poema pastoral" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "éclogas",
+    "description" : "Poemas bucólicos ou pastorais, geralmente em forma de diálogo, que retratam a vida rural de maneira idealizada.",
+    "relations" : [ {
+      "synonym_of" : [ "bucólicas", "pastorais" ]
+    }, {
+      "hypernym_of" : [ "poema" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "Éden",
+    "description" : "Segundo a tradição bíblica, o Éden é o jardim paradisíaco onde Deus colocou Adão e Eva.",
+    "relations" : [ {
+      "synonym_of" : [ "Paraíso" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "Inferno" ]
+    } ]
+  }, {
+    "word" : "Édipo",
+    "description" : "Personagem da mitologia grega, filho de Laio e Jocasta, conhecido por seu papel na tragédia 'Édipo Rei' de Sófocles.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "Éfeso",
+    "description" : "Éfeso foi uma antiga cidade grega localizada na região da Anatólia, na atual Turquia, conhecida por seu templo dedicado à deusa Ártemis, uma das Sete Maravilhas do Mundo Antigo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "cidade antiga", "local histórico" ]
+    }, {
+      "hyponym_of" : [ "cidade grega" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "Anatólia", "Turquia" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "égua",
+    "description" : "Fêmea do cavalo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "animal", "mamífero" ]
+    }, {
+      "hyponym_of" : [ "cavalo" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "água" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "cavalo (macho)" ]
+    } ]
+  }, {
+    "word" : "éguas",
+    "description" : "Plural de 'égua', que é um mamífero fêmea da espécie Equus ferus caballus.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "animais", "mamíferos" ]
+    }, {
+      "hyponym_of" : [ "cavalos" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "garanhões", "cavalos (machos)" ]
+    } ]
+  }, {
+    "word" : "épica",
+    "description" : "Relativo a ou característico de epopeias ou poemas épicos.",
+    "relations" : [ {
+      "synonym_of" : [ "heroica" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "épico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "prosaica" ]
+    } ]
+  }, {
+    "word" : "épicas",
+    "description" : "Relativo a ou característico de uma epopeia, ou seja, um poema narrativo extenso que trata de feitos heroicos.",
+    "relations" : [ {
+      "synonym_of" : [ "heróicas", "grandiosas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "épico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "comuns", "cotidianas" ]
+    } ]
+  }, {
+    "word" : "épico",
+    "description" : "Relativo a epopeia; grandioso, heroico.",
+    "relations" : [ {
+      "synonym_of" : [ "heroico", "grandioso" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "época" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "comum", "ordinário" ]
+    } ]
+  }, {
+    "word" : "épicos",
+    "description" : "Relativo a epopeias ou narrativas heróicas; grandioso, memorável.",
+    "relations" : [ {
+      "synonym_of" : [ "heróicos", "grandiosos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "épico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "comuns", "ordinários" ]
+    } ]
+  }, {
+    "word" : "Épiro",
+    "description" : "Épiro é uma região histórica e geográfica localizada no noroeste da Grécia e no sul da Albânia.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "região" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "Grécia", "Albânia" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "época",
+    "description" : "Período de tempo caracterizado por eventos, condições ou características distintas.",
+    "relations" : [ {
+      "synonym_of" : [ "período", "era", "tempo" ]
+    }, {
+      "hypernym_of" : [ "século", "década", "ano" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "idade", "fase" ]
+    }, {
+      "paronym_of" : [ "épico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "épocas",
+    "description" : "Períodos de tempo que se distinguem por características particulares, eventos ou condições.",
+    "relations" : [ {
+      "synonym_of" : [ "eras", "períodos", "fases" ]
+    }, {
+      "hypernym_of" : [ "décadas", "séculos" ]
+    }, {
+      "hyponym_of" : [ "idade média", "renascimento", "era moderna" ]
+    }, {
+      "meronym_of" : [ "anos", "meses" ]
+    }, {
+      "holonym_of" : [ "história", "cronologia" ]
+    }, {
+      "paronym_of" : [ "épico", "épico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "instantes", "momentos" ]
+    } ]
+  }, {
+    "word" : "éramos",
+    "description" : "Forma verbal do verbo 'ser' na primeira pessoa do plural do pretérito imperfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "éreis",
+    "description" : "Forma verbal do verbo 'ser', segunda pessoa do plural do pretérito imperfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "fostes", "estáveis" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "ser" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "não éreis" ]
+    } ]
+  }, {
+    "word" : "Érica",
+    "description" : "Érica é um nome próprio feminino.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "Erika", "Eryka" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "Érico",
+    "description" : "Nome próprio masculino de origem nórdica, que significa 'governante eterno' ou 'rei sempre poderoso'.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "és",
+    "description" : "Forma conjugada do verbo 'ser' na segunda pessoa do singular do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "és" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "não és" ]
+    } ]
+  }, {
+    "word" : "ésima",
+    "description" : "Refere-se a uma posição ou ordem numérica indeterminada, geralmente usada em contextos matemáticos ou de contagem.",
+    "relations" : [ {
+      "synonym_of" : [ "vigésima", "trigésima", "quadragésima" ]
+    }, {
+      "hypernym_of" : [ "décima", "centésima" ]
+    }, {
+      "hyponym_of" : [ "milésima" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "décima", "centésima" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ésimo",
+    "description" : "Sufixo que indica posição ordinal a partir de um determinado número.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ésimos",
+    "description" : "Referente a frações ou partes de algo, geralmente em um contexto ordinal ou fracionário.",
+    "relations" : [ {
+      "synonym_of" : [ "décimos", "centésimos", "milésimos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "décimos", "centésimos", "milésimos" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "décimos", "centésimos", "milésimos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "éter",
+    "description" : "Uma substância volátil e inflamável, frequentemente usada como solvente ou anestésico.",
+    "relations" : [ {
+      "synonym_of" : [ "éter etílico", "éter dietílico" ]
+    }, {
+      "hypernym_of" : [ "solvente", "anestésico" ]
+    }, {
+      "hyponym_of" : [ "éter metílico", "éter isopropílico" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "éster" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ética",
+    "description" : "Conjunto de valores morais e princípios que norteiam a conduta humana na sociedade.",
+    "relations" : [ {
+      "synonym_of" : [ "moral", "deontologia" ]
+    }, {
+      "hypernym_of" : [ "ética profissional", "ética médica", "ética empresarial" ]
+    }, {
+      "hyponym_of" : [ "filosofia", "moralidade" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "estética" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "imoralidade", "antiética" ]
+    } ]
+  }, {
+    "word" : "éticas",
+    "description" : "Relativo aos princípios e valores que regem o comportamento humano, distinguindo o certo do errado.",
+    "relations" : [ {
+      "synonym_of" : [ "morais" ]
+    }, {
+      "hypernym_of" : [ "normas éticas", "princípios éticos" ]
+    }, {
+      "hyponym_of" : [ "ética profissional", "ética médica" ]
+    }, {
+      "meronym_of" : [ "valores", "princípios" ]
+    }, {
+      "holonym_of" : [ "moralidade" ]
+    }, {
+      "paronym_of" : [ "estéticas" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "antiéticas", "imorais" ]
+    } ]
+  }, {
+    "word" : "ético",
+    "description" : "Relacionado à ética; conforme aos princípios da moral e da conduta humana.",
+    "relations" : [ {
+      "synonym_of" : [ "moral", "deontológico" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "bioético" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "estético" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "imoral", "antiético" ]
+    } ]
+  }, {
+    "word" : "éticos",
+    "description" : "Relativo ou pertencente à ética, ao estudo dos valores morais e dos princípios que regem o comportamento humano.",
+    "relations" : [ {
+      "synonym_of" : [ "morais" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "estéticos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "imorais" ]
+    } ]
+  }, {
+    "word" : "étnica",
+    "description" : "Relativo a etnia, grupo de pessoas que compartilham uma identidade cultural comum.",
+    "relations" : [ {
+      "synonym_of" : [ "racial" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "étnico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "racialmente neutra" ]
+    } ]
+  }, {
+    "word" : "étnicas",
+    "description" : "Relativo a etnias, grupos de pessoas que compartilham uma identidade cultural, linguística ou racial.",
+    "relations" : [ {
+      "synonym_of" : [ "raciais", "culturais" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "étnico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "universais", "globais" ]
+    } ]
+  }, {
+    "word" : "étnico",
+    "description" : "relativo a um grupo de pessoas que compartilham a mesma cultura, língua, ou origem",
+    "relations" : [ {
+      "synonym_of" : [ "cultural", "racial" ]
+    }, {
+      "hypernym_of" : [ "tribal", "clânico" ]
+    }, {
+      "hyponym_of" : [ "afrodescendente", "indígena", "asiático" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "étnica" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "cosmopolita" ]
+    } ]
+  }, {
+    "word" : "étnicos",
+    "description" : "Relativo a etnia ou a um grupo étnico.",
+    "relations" : [ {
+      "synonym_of" : [ "étnico" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "Évora",
+    "description" : "Uma cidade localizada na região do Alentejo, em Portugal, conhecida por seu centro histórico bem preservado e patrimônio cultural.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "cidade", "localidade", "município" ]
+    }, {
+      "hyponym_of" : [ "cidade histórica", "localidade portuguesa" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "Portugal", "Alentejo" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  } ]
+}

@@ -1,0 +1,1103 @@
+{
+  "í" : [ {
+    "word" : "íamos",
+    "description" : "Forma verbal do verbo 'ir' ou 'vir' na primeira pessoa do plural do pretérito imperfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "íamos (do verbo 'vir')" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "íamos (do verbo 'ir')" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "íamos (do verbo 'vir')" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "iríamos", "viríamos" ]
+    } ]
+  }, {
+    "word" : "ícone",
+    "description" : "Um símbolo ou representação gráfica que representa um objeto, ideia ou ação.",
+    "relations" : [ {
+      "synonym_of" : [ "símbolo", "emblema" ]
+    }, {
+      "hypernym_of" : [ "pictograma", "ideograma" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "icônico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ícones",
+    "description" : "Representações visuais ou simbólicas que representam uma ideia, objeto ou ação.",
+    "relations" : [ {
+      "synonym_of" : [ "símbolos", "emblemas" ]
+    }, {
+      "hypernym_of" : [ "logotipos", "pictogramas" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "icônicos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ídolo",
+    "description" : "Objeto de adoração ou veneração; pessoa admirada ou reverenciada.",
+    "relations" : [ {
+      "synonym_of" : [ "herói", "modelo", "exemplo" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "celebridade", "estrela" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "idolatria" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "desprezado", "odiado" ]
+    } ]
+  }, {
+    "word" : "ídolos",
+    "description" : "Pessoas ou coisas que são admiradas ou veneradas por suas qualidades, realizações ou características.",
+    "relations" : [ {
+      "synonym_of" : [ "heróis", "modelos", "exemplos" ]
+    }, {
+      "hypernym_of" : [ "celebridades", "figuras públicas" ]
+    }, {
+      "hyponym_of" : [ "super-heróis", "lendas", "mitos" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ídolo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "vilões", "antagonistas" ]
+    } ]
+  }, {
+    "word" : "íeis",
+    "description" : "Forma verbal do verbo ir, conjugado na 2ª pessoa do plural do pretérito imperfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "iam" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ígnea",
+    "description" : "Relativo ao fogo ou que possui características de fogo.",
+    "relations" : [ {
+      "synonym_of" : [ "incandescente", "ardente" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "igneo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "aquosa" ]
+    } ]
+  }, {
+    "word" : "ígneas",
+    "description" : "Relativo ao fogo; que tem a natureza ou as características do fogo.",
+    "relations" : [ {
+      "synonym_of" : [ "incandescentes", "ardentes" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "igneous" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "aquáticas" ]
+    } ]
+  }, {
+    "word" : "ígneo",
+    "description" : "Relativo ao fogo; que tem a natureza ou as propriedades do fogo.",
+    "relations" : [ {
+      "synonym_of" : [ "incandescente", "ardente", "flamejante" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "aquoso", "hídrico" ]
+    } ]
+  }, {
+    "word" : "ígneos",
+    "description" : "Relativo ao fogo ou que tem as características do fogo.",
+    "relations" : [ {
+      "synonym_of" : [ "incendiários", "ardentes", "inflamáveis" ]
+    }, {
+      "hypernym_of" : [ "vulcânicos", "piroclásticos" ]
+    }, {
+      "hyponym_of" : [ "fogo", "chama" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ígneo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "aquáticos" ]
+    } ]
+  }, {
+    "word" : "ímã",
+    "description" : "Objeto que possui a propriedade de atrair materiais ferromagnéticos, como ferro, níquel e cobalto.",
+    "relations" : [ {
+      "synonym_of" : [ "magneto" ]
+    }, {
+      "hypernym_of" : [ "magneto permanente", "eletroímã" ]
+    }, {
+      "hyponym_of" : [ "objeto" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "imã" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "desmagnetizador" ]
+    } ]
+  }, {
+    "word" : "ímãs",
+    "description" : "Objetos que possuem a capacidade de atrair materiais ferromagnéticos, como ferro, cobalto e níquel.",
+    "relations" : [ {
+      "synonym_of" : [ "magnetos" ]
+    }, {
+      "hypernym_of" : [ "eletroímãs", "ímãs permanentes" ]
+    }, {
+      "hyponym_of" : [ "objetos magnéticos" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "imãs" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ímpar",
+    "description" : "Adjetivo que descreve um número que não é divisível por 2, ou que é único, distinto, sem igual.",
+    "relations" : [ {
+      "synonym_of" : [ "singular", "único" ]
+    }, {
+      "hypernym_of" : [ "número" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "imparcial" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "par" ]
+    } ]
+  }, {
+    "word" : "ímpares",
+    "description" : "Números que não são divisíveis por 2.",
+    "relations" : [ {
+      "synonym_of" : [ "não pares" ]
+    }, {
+      "hypernym_of" : [ "números primos (alguns números primos são ímpares)" ]
+    }, {
+      "hyponym_of" : [ "números" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "pares" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "pares" ]
+    } ]
+  }, {
+    "word" : "ímpeto",
+    "description" : "Força ou energia com que algo se move ou se manifesta; impulso, vigor.",
+    "relations" : [ {
+      "synonym_of" : [ "impulso", "vigor", "energia", "ardor" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ímpio", "ímpio", "ímpia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "calma", "tranquilidade", "serenidade" ]
+    } ]
+  }, {
+    "word" : "ímpetos",
+    "description" : "Força ou energia com que algo se move ou se manifesta; impulso súbito e intenso de fazer algo.",
+    "relations" : [ {
+      "synonym_of" : [ "arroubos", "ímpeto", "impulsos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "calma", "tranquilidade", "moderação" ]
+    } ]
+  }, {
+    "word" : "ímpia",
+    "description" : "Que não possui piedade ou religião; cruel, desumano.",
+    "relations" : [ {
+      "synonym_of" : [ "impiedosa", "cruel", "desumana" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "cruel", "desumana" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ímpio" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "piedosa", "religiosa", "humana" ]
+    } ]
+  }, {
+    "word" : "ímpias",
+    "description" : "Que não tem piedade, cruel; que não tem fé religiosa, ímpio.",
+    "relations" : [ {
+      "synonym_of" : [ "cruéis", "desumanas", "impiedosas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ímpios" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "piedosas", "religiosas" ]
+    } ]
+  }, {
+    "word" : "ímpio",
+    "description" : "Que não demonstra respeito ou reverência por aquilo que é considerado sagrado ou religioso.",
+    "relations" : [ {
+      "synonym_of" : [ "irreverente", "sacrílego", "profano" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ímpeto" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "piedoso", "devoto", "religioso" ]
+    } ]
+  }, {
+    "word" : "ímpios",
+    "description" : "Ímpios é o plural de ímpio, que se refere a pessoas que não têm fé ou respeito por aquilo que é considerado sagrado ou religioso.",
+    "relations" : [ {
+      "synonym_of" : [ "descrentes", "irreverentes" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ímpeto" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "piedosos", "devotos" ]
+    } ]
+  }, {
+    "word" : "ímproba",
+    "description" : "Que não é probo, desonesta, injusta.",
+    "relations" : [ {
+      "synonym_of" : [ "desonesta", "injusta" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ímprobo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "proba", "honesta" ]
+    } ]
+  }, {
+    "word" : "ímprobas",
+    "description" : "Que não são íntegras, honestas ou justas.",
+    "relations" : [ {
+      "synonym_of" : [ "desonestas", "injustas", "imorais" ]
+    }, {
+      "hypernym_of" : [ "corruptas" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ímprobo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "honestas", "justas", "íntegras" ]
+    } ]
+  }, {
+    "word" : "ímprobo",
+    "description" : "Que age com desonestidade ou falta de ética; desonesto, corrupto.",
+    "relations" : [ {
+      "synonym_of" : [ "desonesto", "corrupto", "fraudulento" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ímproba", "ímprobo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "íntegro", "honesto", "probo" ]
+    } ]
+  }, {
+    "word" : "ímprobos",
+    "description" : "Que são desonestos, corruptos, que não têm probidade.",
+    "relations" : [ {
+      "synonym_of" : [ "desonestos", "corruptos", "imorais" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ímprobo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "honestos", "íntegros", "probos" ]
+    } ]
+  }, {
+    "word" : "índia",
+    "description" : "País localizado no sul da Ásia, conhecido por sua rica história, cultura diversificada e grande população.",
+    "relations" : [ {
+      "synonym_of" : [ "Bharat", "Hindustão" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "país" ]
+    }, {
+      "meronym_of" : [ "Nova Deli", "Mumbai", "Taj Mahal" ]
+    }, {
+      "holonym_of" : [ "subcontinente indiano" ]
+    }, {
+      "paronym_of" : [ "índio" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "Índia",
+    "description" : "País localizado no sul da Ásia, conhecido por sua rica diversidade cultural, histórica e geográfica.",
+    "relations" : [ {
+      "synonym_of" : [ "Bharat", "Hindustão" ]
+    }, {
+      "hypernym_of" : [ "país asiático", "nação" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ "Nova Délhi", "Mumbai", "Goa" ]
+    }, {
+      "holonym_of" : [ "Ásia" ]
+    }, {
+      "paronym_of" : [ "indiano" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "índias",
+    "description" : "Plural de 'índia', que se refere a uma mulher nativa da Índia ou uma mulher indígena.",
+    "relations" : [ {
+      "synonym_of" : [ "indígenas", "nativas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "mulheres" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "índios" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "estrangeiras" ]
+    } ]
+  }, {
+    "word" : "índice",
+    "description" : "Um indicador ou uma medida usada para representar dados ou informações específicas, muitas vezes numéricas, em um contexto organizado.",
+    "relations" : [ {
+      "synonym_of" : [ "indicador", "taxa" ]
+    }, {
+      "hypernym_of" : [ "taxa de crescimento", "índice de preços", "índice de inflação" ]
+    }, {
+      "hyponym_of" : [ "indicador" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "índices",
+    "description" : "Plural de índice, que pode se referir a uma lista ordenada, uma medida estatística ou um indicador.",
+    "relations" : [ {
+      "synonym_of" : [ "indicadores", "listas" ]
+    }, {
+      "hypernym_of" : [ "taxas", "medidas", "indicadores", "listas" ]
+    }, {
+      "hyponym_of" : [ "índice de preços", "índice de desenvolvimento humano", "índice de massa corporal" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "indícios" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "índico",
+    "description" : "Relativo ao Oceano Índico, a terceira maior divisão oceânica do mundo.",
+    "relations" : [ {
+      "synonym_of" : [ "oceano Índico" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "oceano" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "índico (relativo à Índia)" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "índigo",
+    "description" : "Índigo é uma cor situada entre o azul e o violeta no espectro de luz visível. Também pode se referir ao corante extraído da planta Indigofera tinctoria.",
+    "relations" : [ {
+      "synonym_of" : [ "anil" ]
+    }, {
+      "hypernym_of" : [ "corante", "cor" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "indígena" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "índigos",
+    "description" : "Índigos refere-se a um grupo de cores que variam entre o azul e o violeta, ou a um tipo de planta usada para produzir corante azul.",
+    "relations" : [ {
+      "synonym_of" : [ "anil", "azul-violeta" ]
+    }, {
+      "hypernym_of" : [ "cor" ]
+    }, {
+      "hyponym_of" : [ "azul", "violeta" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "indígena", "índico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "índio",
+    "description" : "Pessoa pertencente aos povos nativos das Américas.",
+    "relations" : [ {
+      "synonym_of" : [ "nativo americano", "aborígene" ]
+    }, {
+      "hypernym_of" : [ "guarani", "tupi", "cherokee", "navajo" ]
+    }, {
+      "hyponym_of" : [ "pessoa", "humano" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "indiano" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "colonizador", "europeu" ]
+    } ]
+  }, {
+    "word" : "índios",
+    "description" : "Pessoas pertencentes aos povos indígenas das Américas.",
+    "relations" : [ {
+      "synonym_of" : [ "nativos americanos", "aborígenes americanos" ]
+    }, {
+      "hypernym_of" : [ "tribos", "povos indígenas" ]
+    }, {
+      "hyponym_of" : [ "Guarani", "Tupinambá", "Apache", "Cherokee" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "América" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "colonizadores", "europeus" ]
+    } ]
+  }, {
+    "word" : "índole",
+    "description" : "característica natural ou traço essencial que define a natureza de uma pessoa ou coisa",
+    "relations" : [ {
+      "synonym_of" : [ "natureza", "caráter", "temperamento" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "índoles",
+    "description" : "Disposições naturais ou características intrínsecas de uma pessoa ou coisa.",
+    "relations" : [ {
+      "synonym_of" : [ "naturezas", "caracteres", "temperamentos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "índole" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ínfima",
+    "description" : "De qualidade ou valor muito baixo; que ocupa a posição mais baixa em uma escala.",
+    "relations" : [ {
+      "synonym_of" : [ "insignificante", "mísera", "mínima" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ínfimo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elevada", "alta", "máxima" ]
+    } ]
+  }, {
+    "word" : "ínfimas",
+    "description" : "Que são extremamente pequenas ou insignificantes.",
+    "relations" : [ {
+      "synonym_of" : [ "minúsculas", "insignificantes", "diminutas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "pequenas" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ínfimos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "enormes", "grandes" ]
+    } ]
+  }, {
+    "word" : "ínfimo",
+    "description" : "Muito pequeno ou de menor importância; o mais baixo em uma escala.",
+    "relations" : [ {
+      "synonym_of" : [ "mínimo", "insignificante", "irrelevante" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "pequeno" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "íntimo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "máximo", "significativo", "importante" ]
+    } ]
+  }, {
+    "word" : "ínfimos",
+    "description" : "Extremamente pequenos ou baixos em quantidade, qualidade ou importância.",
+    "relations" : [ {
+      "synonym_of" : [ "insignificantes", "mínimos", "baixos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "pequenos" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ínfimas" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elevados", "significativos", "importantes" ]
+    } ]
+  }, {
+    "word" : "íngreme",
+    "description" : "Que possui grande inclinação ou declive acentuado.",
+    "relations" : [ {
+      "synonym_of" : [ "escarpado", "abrupto" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "plano", "suave" ]
+    } ]
+  }, {
+    "word" : "íngremes",
+    "description" : "Que tem grande inclinação; muito inclinado, acentuado.",
+    "relations" : [ {
+      "synonym_of" : [ "escarpados", "acidentados" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "inclinados" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "planos", "suaves" ]
+    } ]
+  }, {
+    "word" : "íntegra",
+    "description" : "íntegra é a forma feminina do adjetivo 'íntegro', que significa completo, inteiro, sem falhas ou que possui integridade moral.",
+    "relations" : [ {
+      "synonym_of" : [ "completa", "inteira" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "integral" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "incompleta", "parcial" ]
+    } ]
+  }, {
+    "word" : "íntegras",
+    "description" : "Que são completas, inteiras, sem danos ou faltas.",
+    "relations" : [ {
+      "synonym_of" : [ "completas", "inteiras", "incólumes" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "inteiras" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "danificadas", "incompletas" ]
+    } ]
+  }, {
+    "word" : "íntegro",
+    "description" : "Que possui integridade, honestidade; que é completo e não está corrompido.",
+    "relations" : [ {
+      "synonym_of" : [ "honesto", "incorruptível", "probo" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "inteiro" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "corrupto", "desonesto" ]
+    } ]
+  }, {
+    "word" : "íntegros",
+    "description" : "Adjetivo que descreve algo ou alguém que possui integridade, que é honesto, incorruptível.",
+    "relations" : [ {
+      "synonym_of" : [ "honestos", "incorruptíveis", "íntegros" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "inteiros" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "corruptos", "desonestos" ]
+    } ]
+  }, {
+    "word" : "íntima",
+    "description" : "Que diz respeito ao interior ou à essência de algo; que é muito próximo ou pessoal.",
+    "relations" : [ {
+      "synonym_of" : [ "próxima", "pessoal", "profunda" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "íntimo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "superficial", "distante" ]
+    } ]
+  }, {
+    "word" : "íntimas",
+    "description" : "Que é muito próximo, estreito ou familiar.",
+    "relations" : [ {
+      "synonym_of" : [ "próximas", "estreitas", "familiares" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "íntimos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "distantes", "superficiais" ]
+    } ]
+  }, {
+    "word" : "íntimo",
+    "description" : "Que diz respeito à vida privada, pessoal; que é muito próximo ou profundo.",
+    "relations" : [ {
+      "synonym_of" : [ "privado", "pessoal", "profundo" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "íntima" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "superficial", "distante" ]
+    } ]
+  }, {
+    "word" : "íntimos",
+    "description" : "Que têm uma relação de grande proximidade e confiança.",
+    "relations" : [ {
+      "synonym_of" : [ "próximos", "confidentes" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "íntimas" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "distantes", "desconhecidos" ]
+    } ]
+  }, {
+    "word" : "íris",
+    "description" : "Parte colorida do olho ao redor da pupila, responsável por controlar a quantidade de luz que entra no olho.",
+    "relations" : [ {
+      "synonym_of" : [ "arco-íris" ]
+    }, {
+      "hypernym_of" : [ "pupila" ]
+    }, {
+      "hyponym_of" : [ "parte do olho" ]
+    }, {
+      "meronym_of" : [ "olho" ]
+    }, {
+      "holonym_of" : [ "pupila" ]
+    }, {
+      "paronym_of" : [ "irisado" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ítalo",
+    "description" : "Relativo à Itália ou aos italianos.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ítalos",
+    "description" : "Ítalos refere-se aos habitantes da Itália antiga, especialmente antes da ascensão de Roma.",
+    "relations" : [ {
+      "synonym_of" : [ "italianos antigos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "latinos", "sabinos", "etruscos" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "povos itálicos" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ítem",
+    "description" : "Uma unidade ou artigo individual dentro de uma lista, coleção ou conjunto.",
+    "relations" : [ {
+      "synonym_of" : [ "artigo", "ponto", "entrada" ]
+    }, {
+      "hypernym_of" : [ "elemento", "componente" ]
+    }, {
+      "hyponym_of" : [ "produto", "artigo específico" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "lista", "coleção", "conjunto" ]
+    }, {
+      "paronym_of" : [ "ítens" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ítens",
+    "description" : "Elementos ou componentes que fazem parte de uma lista, coleção ou grupo.",
+    "relations" : [ {
+      "synonym_of" : [ "artigos", "elementos", "componentes" ]
+    }, {
+      "hypernym_of" : [ "subitens" ]
+    }, {
+      "hyponym_of" : [ "produtos", "objetos", "artigos específicos" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "lista", "coleção", "grupo" ]
+    }, {
+      "paronym_of" : [ "itens" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  } ]
+}

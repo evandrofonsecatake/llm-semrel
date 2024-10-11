@@ -1,0 +1,263 @@
+{
+  "ê" : [ {
+    "word" : "êmbolo",
+    "description" : "Parte de um dispositivo mecânico que se move dentro de um cilindro para comprimir ou deslocar fluidos.",
+    "relations" : [ {
+      "synonym_of" : [ "pistão" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ "cilindro" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "embolia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "êmbolos",
+    "description" : "Êmbolos são componentes mecânicos que se movem dentro de cilindros para transferir força em máquinas e motores.",
+    "relations" : [ {
+      "synonym_of" : [ "pistões" ]
+    }, {
+      "hypernym_of" : [ "componentes mecânicos" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "motores", "cilindros" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "êmula",
+    "description" : "Pessoa que compete com outra, rival, concorrente.",
+    "relations" : [ {
+      "synonym_of" : [ "rival", "concorrente", "competidora" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "emular" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "aliada", "cooperadora" ]
+    } ]
+  }, {
+    "word" : "êmulas",
+    "description" : "Plural de êmula, que se refere a indivíduos ou entidades que competem entre si, rivais.",
+    "relations" : [ {
+      "synonym_of" : [ "rival", "concorrente" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "emulo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "aliada", "colaboradora" ]
+    } ]
+  }, {
+    "word" : "êmulo",
+    "description" : "Aquele que compete ou rivaliza com outra pessoa em busca de um objetivo comum.",
+    "relations" : [ {
+      "synonym_of" : [ "rival", "concorrente" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "emulação" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "colaborador", "aliado" ]
+    } ]
+  }, {
+    "word" : "êmulos",
+    "description" : "Indivíduos que competem entre si, rivais.",
+    "relations" : [ {
+      "synonym_of" : [ "rivais", "competidores" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "emular" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "aliados", "colaboradores" ]
+    } ]
+  }, {
+    "word" : "ênfase",
+    "description" : "A palavra 'ênfase' refere-se ao ato de dar destaque, importância ou realce a algo, seja em uma fala, um texto ou uma apresentação.",
+    "relations" : [ {
+      "synonym_of" : [ "destaque", "realce", "importância" ]
+    }, {
+      "hypernym_of" : [ "foco", "ressalto" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "enfase" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "desatenção", "negligência" ]
+    } ]
+  }, {
+    "word" : "êxito",
+    "description" : "Êxito é um substantivo masculino que significa sucesso, resultado favorável, bom resultado em algo que se empreendeu.",
+    "relations" : [ {
+      "synonym_of" : [ "sucesso", "triunfo", "vitória" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "exílio" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "fracasso", "insucesso" ]
+    } ]
+  }, {
+    "word" : "êxitos",
+    "description" : "Resultado favorável ou bem-sucedido de uma ação ou empreendimento.",
+    "relations" : [ {
+      "synonym_of" : [ "sucessos", "triunfos", "vitórias" ]
+    }, {
+      "hypernym_of" : [ "conquistas", "realizações" ]
+    }, {
+      "hyponym_of" : [ "sucesso parcial", "sucesso total" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "exitoso" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "fracassos", "falhas", "insucessos" ]
+    } ]
+  }, {
+    "word" : "êxodo",
+    "description" : "Êxodo é um substantivo masculino que se refere à saída em massa de pessoas de uma região para outra, frequentemente por motivos econômicos, sociais ou políticos.",
+    "relations" : [ {
+      "synonym_of" : [ "migração", "emigração" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "êxito" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "imigração", "fixação" ]
+    } ]
+  }, {
+    "word" : "êxodos",
+    "description" : "Êxodos é o plural de êxodo, que se refere à saída ou migração em massa de um grupo de pessoas de um lugar para outro.",
+    "relations" : [ {
+      "synonym_of" : [ "migrações", "emigrações" ]
+    }, {
+      "hypernym_of" : [ "êxodo" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "imigrações" ]
+    } ]
+  }, {
+    "word" : "êxtase",
+    "description" : "Um estado de grande alegria, prazer ou emoção intensa.",
+    "relations" : [ {
+      "synonym_of" : [ "arrebatamento", "exaltação", "frenesi", "êxtase" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "estase" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "depressão", "tristeza" ]
+    } ]
+  }, {
+    "word" : "êxtases",
+    "description" : "Estado de intensa emoção ou prazer, frequentemente associado a uma sensação de elevação espiritual ou mental.",
+    "relations" : [ {
+      "synonym_of" : [ "arroubos", "delírios", "êxtase" ]
+    }, {
+      "hypernym_of" : [ "alegria", "felicidade" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "êxito" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "desânimos", "depressões" ]
+    } ]
+  } ]
+}

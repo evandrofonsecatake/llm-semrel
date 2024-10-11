@@ -1,0 +1,943 @@
+{
+  "ó" : [ {
+    "word" : "óbito",
+    "description" : "Ato de falecer, morte.",
+    "relations" : [ {
+      "synonym_of" : [ "falecimento", "morte" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "desencarne", "passamento" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "nascimento" ]
+    } ]
+  }, {
+    "word" : "óbitos",
+    "description" : "Falecimentos, mortes.",
+    "relations" : [ {
+      "synonym_of" : [ "falecimentos", "mortes" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "mortes naturais", "mortes acidentais" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "nascimentos", "sobrevivências" ]
+    } ]
+  }, {
+    "word" : "óbolo",
+    "description" : "Pequena quantia de dinheiro dada como esmola ou contribuição.",
+    "relations" : [ {
+      "synonym_of" : [ "donativo", "esmola", "contribuição" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "óbvia",
+    "description" : "Algo que é claro, evidente ou facilmente compreensível.",
+    "relations" : [ {
+      "synonym_of" : [ "evidente", "claro", "patente" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "óbvio" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "obscura", "duvidosa" ]
+    } ]
+  }, {
+    "word" : "óbvias",
+    "description" : "que são claras, evidentes, fáceis de perceber ou entender",
+    "relations" : [ {
+      "synonym_of" : [ "evidentes", "claras", "patentes" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "óbvios" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ambiguas", "obscuras" ]
+    } ]
+  }, {
+    "word" : "óbvio",
+    "description" : "Algo que é claro, evidente, que não deixa margem para dúvidas.",
+    "relations" : [ {
+      "synonym_of" : [ "evidente", "claro", "manifesto" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "óbice" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "obscuro", "duvidoso", "incerto" ]
+    } ]
+  }, {
+    "word" : "óbvios",
+    "description" : "Algo que é claro, evidente e não deixa margem para dúvidas.",
+    "relations" : [ {
+      "synonym_of" : [ "evidentes", "claros" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "óbvio" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "obscuros", "duvidosos" ]
+    } ]
+  }, {
+    "word" : "ócio",
+    "description" : "Estado de inatividade ou tempo livre, geralmente associado ao descanso ou lazer.",
+    "relations" : [ {
+      "synonym_of" : [ "ociosidade", "lazer" ]
+    }, {
+      "hypernym_of" : [ "descanso", "recreação" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "óssio" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "trabalho", "atividade" ]
+    } ]
+  }, {
+    "word" : "óculos",
+    "description" : "Objeto utilizado para corrigir ou melhorar a visão.",
+    "relations" : [ {
+      "synonym_of" : [ "lentes" ]
+    }, {
+      "hypernym_of" : [ "óculos de sol", "óculos de grau", "óculos de proteção" ]
+    }, {
+      "hyponym_of" : [ "acessório" ]
+    }, {
+      "meronym_of" : [ "armação", "lentes", "haste" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ódio",
+    "description" : "Sentimento intenso de aversão, raiva ou antipatia em relação a alguém ou algo.",
+    "relations" : [ {
+      "synonym_of" : [ "rancor", "ira", "raiva" ]
+    }, {
+      "hypernym_of" : [ "antipatia" ]
+    }, {
+      "hyponym_of" : [ "desprezo", "inimizade" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ódico" ]
+    }, {
+      "troponym_of" : [ "aborrecimento" ]
+    }, {
+      "antonym_of" : [ "amor", "afeto" ]
+    } ]
+  }, {
+    "word" : "ódios",
+    "description" : "Sentimento de aversão intensa, repulsa ou antipatia profunda por alguém ou algo.",
+    "relations" : [ {
+      "synonym_of" : [ "rancores", "animosidades", "antipatias" ]
+    }, {
+      "hypernym_of" : [ "rancor", "animus" ]
+    }, {
+      "hyponym_of" : [ "desgosto", "desprezo" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ódio" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "amores", "afetos", "simpatias" ]
+    } ]
+  }, {
+    "word" : "óleo",
+    "description" : "Substância líquida e viscosa, geralmente inflamável, que pode ser de origem vegetal, animal, mineral ou sintética.",
+    "relations" : [ {
+      "synonym_of" : [ "azeite" ]
+    }, {
+      "hypernym_of" : [ "óleo de cozinha", "óleo de motor", "óleo essencial" ]
+    }, {
+      "hyponym_of" : [ "substância líquida", "líquido" ]
+    }, {
+      "meronym_of" : [ "gordura", "ácidos graxos" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "olho" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "água" ]
+    } ]
+  }, {
+    "word" : "óleos",
+    "description" : "Substâncias líquidas, viscosas e geralmente inflamáveis, que não se misturam com a água e são usadas em diversas aplicações, como lubrificantes, combustíveis, alimentos e produtos de beleza.",
+    "relations" : [ {
+      "synonym_of" : [ "lubrificantes", "graxas" ]
+    }, {
+      "hypernym_of" : [ "azeite", "óleo de cozinha", "óleo de motor" ]
+    }, {
+      "hyponym_of" : [ "líquidos" ]
+    }, {
+      "meronym_of" : [ "gorduras", "lipídios" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "olhos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "água" ]
+    } ]
+  }, {
+    "word" : "ópera",
+    "description" : "Uma forma de teatro musical que combina música, canto e representação.",
+    "relations" : [ {
+      "synonym_of" : [ "drama lírico" ]
+    }, {
+      "hypernym_of" : [ "musical" ]
+    }, {
+      "hyponym_of" : [ "ópera-bufa", "ópera-seria", "opereta" ]
+    }, {
+      "meronym_of" : [ "ária", "recitativo", "coro", "orquestra" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "opereta" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "óperas",
+    "description" : "Óperas são obras musicais dramáticas que combinam canto, orquestração e, frequentemente, dança e atuação teatral.",
+    "relations" : [ {
+      "synonym_of" : [ "opera" ]
+    }, {
+      "hypernym_of" : [ "dramas musicais", "composições musicais" ]
+    }, {
+      "hyponym_of" : [ "ópera-bufa", "ópera-seria", "ópera-rock" ]
+    }, {
+      "meronym_of" : [ "ato", "cena", "ária", "recitativo" ]
+    }, {
+      "holonym_of" : [ "teatro de ópera" ]
+    }, {
+      "paronym_of" : [ "operar", "operário" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ópio",
+    "description" : "Substância narcótica extraída da papoula, usada como analgésico e em medicamentos.",
+    "relations" : [ {
+      "synonym_of" : [ "morfina", "narcótico" ]
+    }, {
+      "hypernym_of" : [ "substância narcótica" ]
+    }, {
+      "hyponym_of" : [ "morfina", "heroína" ]
+    }, {
+      "meronym_of" : [ "papaverina", "codeína" ]
+    }, {
+      "holonym_of" : [ "papoula" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "óptica",
+    "description" : "Óptica é o ramo da física que estuda a luz e os fenômenos associados a ela.",
+    "relations" : [ {
+      "synonym_of" : [ "ótica" ]
+    }, {
+      "hypernym_of" : [ "física" ]
+    }, {
+      "hyponym_of" : [ "fotometria", "espectroscopia" ]
+    }, {
+      "meronym_of" : [ "lente", "espelho" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ótica" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ópticas",
+    "description" : "Relativo à visão ou à ciência da óptica.",
+    "relations" : [ {
+      "synonym_of" : [ "visuais", "oculares" ]
+    }, {
+      "hypernym_of" : [ "lentes", "óculos", "microscópios" ]
+    }, {
+      "hyponym_of" : [ "instrumentos", "aparelhos" ]
+    }, {
+      "meronym_of" : [ "lentes", "prismas" ]
+    }, {
+      "holonym_of" : [ "sistemas ópticos" ]
+    }, {
+      "paronym_of" : [ "óptico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "não-visuais" ]
+    } ]
+  }, {
+    "word" : "óptico",
+    "description" : "Relativo à visão ou aos olhos.",
+    "relations" : [ {
+      "synonym_of" : [ "visual", "ocular" ]
+    }, {
+      "hypernym_of" : [ "visual" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ótico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "não visual" ]
+    } ]
+  }, {
+    "word" : "ópticos",
+    "description" : "Relativo à visão ou à óptica.",
+    "relations" : [ {
+      "synonym_of" : [ "visuais" ]
+    }, {
+      "hypernym_of" : [ "oculares" ]
+    }, {
+      "hyponym_of" : [ "lentes de contato", "óculos", "microscópios" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "sistemas ópticos" ]
+    }, {
+      "paronym_of" : [ "óptico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "órbita",
+    "description" : "O caminho gravitacionalmente curvado que um objeto segue ao redor de um ponto no espaço.",
+    "relations" : [ {
+      "synonym_of" : [ "trajetória", "rota" ]
+    }, {
+      "hypernym_of" : [ "trajetória elíptica", "trajetória circular" ]
+    }, {
+      "hyponym_of" : [ "trajetória" ]
+    }, {
+      "meronym_of" : [ "perigeu", "apogeu" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "órbito", "orbital" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "órbitas",
+    "description" : "Trajetórias curvas que um objeto segue ao redor de outro objeto devido à força gravitacional.",
+    "relations" : [ {
+      "synonym_of" : [ "trajetórias orbitais", "curvas gravitacionais" ]
+    }, {
+      "hypernym_of" : [ "trajetória" ]
+    }, {
+      "hyponym_of" : [ "órbita terrestre", "órbita lunar", "órbita solar" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "linha reta", "trajetória linear" ]
+    } ]
+  }, {
+    "word" : "órfã",
+    "description" : "Pessoa do sexo feminino que perdeu um ou ambos os pais.",
+    "relations" : [ {
+      "synonym_of" : [ "orfanada" ]
+    }, {
+      "hypernym_of" : [ "criança órfã", "adolescente órfã" ]
+    }, {
+      "hyponym_of" : [ "órfão" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "órfão" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "filha", "filha com pais vivos" ]
+    } ]
+  }, {
+    "word" : "órfão",
+    "description" : "Uma pessoa, especialmente uma criança, que perdeu um ou ambos os pais.",
+    "relations" : [ {
+      "synonym_of" : [ "orfanado" ]
+    }, {
+      "hypernym_of" : [ "menor órfão", "criança órfã" ]
+    }, {
+      "hyponym_of" : [ "pessoa" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "orfanato" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "filho" ]
+    } ]
+  }, {
+    "word" : "órfãos",
+    "description" : "Crianças que perderam um ou ambos os pais.",
+    "relations" : [ {
+      "synonym_of" : [ "orfanatos", "desamparados" ]
+    }, {
+      "hypernym_of" : [ "crianças sem pais" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "famílias" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "filhos", "crianças com pais" ]
+    } ]
+  }, {
+    "word" : "órfãs",
+    "description" : "Meninas ou mulheres que perderam um ou ambos os pais.",
+    "relations" : [ {
+      "synonym_of" : [ "meninas órfãs", "garotas órfãs", "mulheres órfãs" ]
+    }, {
+      "hypernym_of" : [ "filhas", "crianças" ]
+    }, {
+      "hyponym_of" : [ "órfãs de pai", "órfãs de mãe", "órfãs de ambos os pais" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "órfãos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "filhas com pais vivos" ]
+    } ]
+  }, {
+    "word" : "órgão",
+    "description" : "Uma parte do corpo de um ser vivo que realiza uma função específica.",
+    "relations" : [ {
+      "synonym_of" : [ "aparelho", "sistema" ]
+    }, {
+      "hypernym_of" : [ "coração", "fígado", "pulmão", "rim" ]
+    }, {
+      "hyponym_of" : [ "sistema" ]
+    }, {
+      "meronym_of" : [ "tecido", "célula" ]
+    }, {
+      "holonym_of" : [ "corpo" ]
+    }, {
+      "paronym_of" : [ "orgânico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "órgãos",
+    "description" : "Partes do corpo de um organismo que desempenham funções específicas.",
+    "relations" : [ {
+      "synonym_of" : [ "organismos" ]
+    }, {
+      "hypernym_of" : [ "coração", "pulmão", "fígado", "rim" ]
+    }, {
+      "hyponym_of" : [ "sistemas" ]
+    }, {
+      "meronym_of" : [ "células", "tecidos" ]
+    }, {
+      "holonym_of" : [ "corpo" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "Órion",
+    "description" : "Órion é uma constelação proeminente localizada na região equatorial celeste, facilmente identificável por suas estrelas brilhantes que formam o asterismo conhecido como 'Cinturão de Órion'.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "constelação" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ósculo",
+    "description" : "Ato de beijar ou beijo, especialmente no contexto religioso ou formal.",
+    "relations" : [ {
+      "synonym_of" : [ "beijo" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ósculos",
+    "description" : "Ósculos são beijos dados como sinal de afeição ou reverência.",
+    "relations" : [ {
+      "synonym_of" : [ "beijos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "óssea",
+    "description" : "Relativo a osso, que tem a natureza ou a qualidade de osso.",
+    "relations" : [ {
+      "synonym_of" : [ "ósseo" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ósseas",
+    "description" : "Relativo aos ossos ou constituído de ossos.",
+    "relations" : [ {
+      "synonym_of" : [ "ósseos", "osteais" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "óssica" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "cartilaginosas" ]
+    } ]
+  }, {
+    "word" : "ósseo",
+    "description" : "Relativo aos ossos ou que é composto por ossos.",
+    "relations" : [ {
+      "synonym_of" : [ "ósseoide", "osteal" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "esquelético" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "osso" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ósseos",
+    "description" : "Relativo a ossos.",
+    "relations" : [ {
+      "synonym_of" : [ "osteal", "ósseo" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ossos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "cartilaginoso" ]
+    } ]
+  }, {
+    "word" : "ótica",
+    "description" : "ótica se refere ao ramo da física que estuda a luz e os fenômenos associados à visão.",
+    "relations" : [ {
+      "synonym_of" : [ "optometria", "visão" ]
+    }, {
+      "hypernym_of" : [ "refração", "lentes", "miragem" ]
+    }, {
+      "hyponym_of" : [ "física" ]
+    }, {
+      "meronym_of" : [ "lente", "espelho", "prisma" ]
+    }, {
+      "holonym_of" : [ "ciência", "física" ]
+    }, {
+      "paronym_of" : [ "ótica (loja)" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "óticas",
+    "description" : "Refere-se a estabelecimentos que comercializam óculos e outros produtos relacionados à visão, ou ao ramo da óptica, que é a ciência que estuda a luz e os fenômenos da visão.",
+    "relations" : [ {
+      "synonym_of" : [ "lojas de óculos", "ópticas" ]
+    }, {
+      "hypernym_of" : [ "lojas" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ "centros comerciais" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "óticos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ótico",
+    "description" : "Relacionado ao ouvido ou à audição.",
+    "relations" : [ {
+      "synonym_of" : [ "auricular", "auditivo" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "auditivo" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ótico (relacionado à visão, em inglês 'optic')" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "óticos",
+    "description" : "Relativo aos ouvidos ou à audição.",
+    "relations" : [ {
+      "synonym_of" : [ "auditivos", "auriculares" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ópticos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ótima",
+    "description" : "De excelente qualidade, muito boa.",
+    "relations" : [ {
+      "synonym_of" : [ "excelente", "magnífica", "maravilhosa" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "boa" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ótimo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "péssima", "ruim" ]
+    } ]
+  }, {
+    "word" : "ótimas",
+    "description" : "que possuem qualidade ou excelência superior",
+    "relations" : [ {
+      "synonym_of" : [ "excelentes", "magníficas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "boas" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ótimos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "péssimas", "ruins" ]
+    } ]
+  }, {
+    "word" : "ótimo",
+    "description" : "Que está em grau excelente ou muito bom; excelente; maravilhoso.",
+    "relations" : [ {
+      "synonym_of" : [ "excelente", "maravilhoso", "perfeito" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "bom" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ótima" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "péssimo" ]
+    } ]
+  }, {
+    "word" : "ótimos",
+    "description" : "Que possui qualidade superior, excelente, muito bom.",
+    "relations" : [ {
+      "synonym_of" : [ "excelentes", "maravilhosos", "excelso", "magníficos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "bons", "satisfatórios" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ótimo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "péssimos", "ruins", "horríveis" ]
+    } ]
+  }, {
+    "word" : "óvulo",
+    "description" : "Célula reprodutiva feminina que, após ser fertilizada por um espermatozoide, pode desenvolver-se em um novo organismo.",
+    "relations" : [ {
+      "synonym_of" : [ "ovo", "gameta feminino" ]
+    }, {
+      "hypernym_of" : [ "célula reprodutiva" ]
+    }, {
+      "hyponym_of" : [ "gameta" ]
+    }, {
+      "meronym_of" : [ "citoplasma", "núcleo", "membrana plasmática" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ovário" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "espermatozoide" ]
+    } ]
+  }, {
+    "word" : "óvulos",
+    "description" : "Células reprodutivas femininas que, quando fertilizadas por espermatozoides, podem desenvolver-se em um novo organismo.",
+    "relations" : [ {
+      "synonym_of" : [ "gametas femininas", "ovócitos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "ovócitos primários", "ovócitos secundários" ]
+    }, {
+      "meronym_of" : [ "núcleo", "citoplasma" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "espermatozoides" ]
+    } ]
+  }, {
+    "word" : "óxido",
+    "description" : "Composto químico formado por oxigênio e outro elemento.",
+    "relations" : [ {
+      "synonym_of" : [ "óxidos" ]
+    }, {
+      "hypernym_of" : [ "dióxido", "monóxido", "peróxido" ]
+    }, {
+      "hyponym_of" : [ "composto químico" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "óxidos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "óxidos",
+    "description" : "Compostos químicos formados por oxigênio e outro elemento.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "compostos químicos" ]
+    }, {
+      "hyponym_of" : [ "óxido de ferro", "óxido de cálcio" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "óxido" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  } ]
+}

@@ -1,0 +1,163 @@
+{
+  "ô" : [ {
+    "word" : "ô",
+    "description" : "Interjeição usada para chamar a atenção de alguém, expressar surpresa ou espanto.",
+    "relations" : [ {
+      "synonym_of" : [ "ó", "ei" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ônibus",
+    "description" : "Veículo automotor de grande porte, destinado ao transporte coletivo de passageiros.",
+    "relations" : [ {
+      "synonym_of" : [ "autocarro" ]
+    }, {
+      "hypernym_of" : [ "micro-ônibus", "minibus" ]
+    }, {
+      "hyponym_of" : [ "veículo", "meio de transporte" ]
+    }, {
+      "meronym_of" : [ "assento", "motor", "rodas" ]
+    }, {
+      "holonym_of" : [ "frota de ônibus" ]
+    }, {
+      "paronym_of" : [ "ônibo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "carro particular" ]
+    } ]
+  }, {
+    "word" : "ônix",
+    "description" : "Uma variedade de quartzo, geralmente preta, usada como pedra semipreciosa.",
+    "relations" : [ {
+      "synonym_of" : [ "ónice" ]
+    }, {
+      "hypernym_of" : [ "pedra semipreciosa" ]
+    }, {
+      "hyponym_of" : [ "quartzo" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ôntica",
+    "description" : "Relativo ao ser, à existência ou à ontologia.",
+    "relations" : [ {
+      "synonym_of" : [ "ontológica" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ótica" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ônticas",
+    "description" : "Relativo a ontologia, estudo do ser.",
+    "relations" : [ {
+      "synonym_of" : [ "ontológicas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ôntico",
+    "description" : "Relativo ao ser, à existência ou ao ente.",
+    "relations" : [ {
+      "synonym_of" : [ "existencial", "ontológico" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "inexistente" ]
+    } ]
+  }, {
+    "word" : "ônticos",
+    "description" : "Relativo a ontologia, que diz respeito ao ser e à existência.",
+    "relations" : [ {
+      "synonym_of" : [ "ontológicos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ônus",
+    "description" : "Responsabilidade ou obrigação que recai sobre alguém.",
+    "relations" : [ {
+      "synonym_of" : [ "responsabilidade", "encargo" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "bônus" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "bônus" ]
+    } ]
+  } ]
+}

@@ -1,0 +1,23 @@
+{
+  "ã" : [ {
+    "word" : "ão",
+    "description" : "Uma terminação comum em palavras no português, geralmente usada para formar substantivos e adjetivos aumentativos.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  } ]
+}

@@ -1,0 +1,383 @@
+{
+  "ú" : [ {
+    "word" : "úlcera",
+    "description" : "Lesão aberta na pele ou mucosa, geralmente causada por infecção, pressão prolongada ou outras condições médicas.",
+    "relations" : [ {
+      "synonym_of" : [ "ferida", "chaga" ]
+    }, {
+      "hypernym_of" : [ "úlcera gástrica", "úlcera péptica", "úlcera de decúbito" ]
+    }, {
+      "hyponym_of" : [ "lesão", "ferida" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "úlcerar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "úlceras",
+    "description" : "Lesões abertas na pele ou mucosa que não cicatrizam facilmente.",
+    "relations" : [ {
+      "synonym_of" : [ "feridas", "chagas" ]
+    }, {
+      "hypernym_of" : [ "ferida", "lesão" ]
+    }, {
+      "hyponym_of" : [ "úlcera gástrica", "úlcera péptica", "úlcera varicosa" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ulcerar", "ulceroso" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "última",
+    "description" : "Que está no fim de uma série ou sequência; que vem depois de todas as outras.",
+    "relations" : [ {
+      "synonym_of" : [ "derradeira", "final" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "primeira", "inicial" ]
+    } ]
+  }, {
+    "word" : "últimas",
+    "description" : "Forma plural do adjetivo 'último', que se refere ao que vem no final ou ao que está mais distante no tempo ou na sequência.",
+    "relations" : [ {
+      "synonym_of" : [ "finais", "derradeiras" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "últimos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "primeiras", "iniciais" ]
+    } ]
+  }, {
+    "word" : "último",
+    "description" : "Que está no fim ou na posição final em uma sequência ou série.",
+    "relations" : [ {
+      "synonym_of" : [ "derradeiro", "final" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "primeiro", "inicial" ]
+    } ]
+  }, {
+    "word" : "últimos",
+    "description" : "Que são os mais recentes em uma sequência ou série; que vêm depois de todos os outros.",
+    "relations" : [ {
+      "synonym_of" : [ "recentes", "finais", "derradeiros" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "último" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "primeiros", "iniciais" ]
+    } ]
+  }, {
+    "word" : "úmida",
+    "description" : "Que contém ou está coberto de umidade; molhada.",
+    "relations" : [ {
+      "synonym_of" : [ "molhada", "encharcada" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "orvalhada", "suada" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "úmido" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "seca" ]
+    } ]
+  }, {
+    "word" : "úmidas",
+    "description" : "Que possui ou está coberto de umidade.",
+    "relations" : [ {
+      "synonym_of" : [ "molhadas", "húmidas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "encharcadas", "orvalhadas" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "úmidos", "úmida" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "secas" ]
+    } ]
+  }, {
+    "word" : "úmido",
+    "description" : "Que contém ou está impregnado de umidade; molhado, encharcado.",
+    "relations" : [ {
+      "synonym_of" : [ "molhado", "encharcado", "húmido" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "orvalhado", "embebido", "ensopado" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "úmido", "húmido" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "seco", "árido" ]
+    } ]
+  }, {
+    "word" : "úmidos",
+    "description" : "Que contém umidade; que não está completamente seco.",
+    "relations" : [ {
+      "synonym_of" : [ "molhados", "encharcados" ]
+    }, {
+      "hypernym_of" : [ "orvalhados" ]
+    }, {
+      "hyponym_of" : [ "úmido" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "húmidos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "secos" ]
+    } ]
+  }, {
+    "word" : "única",
+    "description" : "Que é a única de sua espécie ou categoria; sem igual; singular.",
+    "relations" : [ {
+      "synonym_of" : [ "exclusiva", "singular", "incomparável" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "único" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "comum", "ordinária" ]
+    } ]
+  }, {
+    "word" : "únicas",
+    "description" : "Que é só, que não tem igual, exclusivo.",
+    "relations" : [ {
+      "synonym_of" : [ "exclusivas", "incomparáveis" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "unidas" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "comuns", "ordinárias" ]
+    } ]
+  }, {
+    "word" : "único",
+    "description" : "Que é o único de sua espécie ou tipo; que não tem igual; exclusivo.",
+    "relations" : [ {
+      "synonym_of" : [ "exclusivo", "singular", "incomparável" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "comum", "plural", "múltiplo" ]
+    } ]
+  }, {
+    "word" : "únicos",
+    "description" : "Que é singular, sem igual, exclusivo.",
+    "relations" : [ {
+      "synonym_of" : [ "exclusivos", "singulares", "incomparáveis" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "unicidade" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "comuns", "ordinários", "vulgares" ]
+    } ]
+  }, {
+    "word" : "úrico",
+    "description" : "Relacionado ao ácido úrico, um composto químico encontrado no sangue e na urina.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "urina", "úrico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "úteis",
+    "description" : "Que tem utilidade, que é vantajoso ou proveitoso.",
+    "relations" : [ {
+      "synonym_of" : [ "vantajosos", "proveitosos", "funcionais" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "útil" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "inúteis", "improdutivos" ]
+    } ]
+  }, {
+    "word" : "útero",
+    "description" : "Órgão muscular do sistema reprodutor feminino, onde o embrião se desenvolve durante a gestação.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "órgão reprodutor" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ "endométrio", "miométrio", "perimétrio" ]
+    }, {
+      "holonym_of" : [ "sistema reprodutor feminino" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "úteros",
+    "description" : "Órgão muscular do sistema reprodutor feminino dos mamíferos onde ocorre o desenvolvimento do embrião e do feto.",
+    "relations" : [ {
+      "synonym_of" : [ "matrizes" ]
+    }, {
+      "hypernym_of" : [ "órgãos reprodutivos femininos" ]
+    }, {
+      "hyponym_of" : [ "útero humano", "útero de vaca", "útero de égua" ]
+    }, {
+      "meronym_of" : [ "sistema reprodutor feminino" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "útil",
+    "description" : "Que é de utilidade; que serve para alguma coisa; que é proveitoso, vantajoso.",
+    "relations" : [ {
+      "synonym_of" : [ "proveitoso", "vantajoso", "funcional", "prático" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "fútil" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "inútil", "fútil" ]
+    } ]
+  } ]
+}

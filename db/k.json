@@ -1,0 +1,263 @@
+{
+  "k" : [ {
+    "word" : "kantiana",
+    "description" : "Relativo ou pertencente a Immanuel Kant ou à sua filosofia.",
+    "relations" : [ {
+      "synonym_of" : [ "kantista" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "kantismo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "kantianas",
+    "description" : "Relativo ou pertencente ao filósofo Immanuel Kant ou à sua filosofia.",
+    "relations" : [ {
+      "synonym_of" : [ "kantista" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "kantiano",
+    "description" : "Relacionado ao filósofo alemão Immanuel Kant ou à sua filosofia.",
+    "relations" : [ {
+      "synonym_of" : [ "kantista" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "kantismo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "kantianos",
+    "description" : "Relativo ou pertencente a Immanuel Kant ou à sua filosofia.",
+    "relations" : [ {
+      "synonym_of" : [ "kantista" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "kantismo",
+    "description" : "Sistema filosófico desenvolvido por Immanuel Kant, que enfatiza a relação entre conhecimento e experiência e propõe uma síntese entre racionalismo e empirismo.",
+    "relations" : [ {
+      "synonym_of" : [ "kantianismo" ]
+    }, {
+      "hypernym_of" : [ "filosofia" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "karaokê",
+    "description" : "Uma forma de entretenimento em que as pessoas cantam músicas populares acompanhadas por uma faixa de acompanhamento musical pré-gravada.",
+    "relations" : [ {
+      "synonym_of" : [ "videokê" ]
+    }, {
+      "hypernym_of" : [ "entretenimento musical" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "Kazuo",
+    "description" : "Kazuo é um nome próprio de origem japonesa, geralmente utilizado como nome masculino.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "kepleriana",
+    "description" : "Relativo a Kepler ou às suas leis do movimento planetário.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "kepleriano" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "keplerianas",
+    "description" : "Referente a ou característico das leis ou teorias de Johannes Kepler, astrônomo e matemático alemão, especialmente no que diz respeito ao movimento dos planetas.",
+    "relations" : [ {
+      "synonym_of" : [ "kepleriana" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "kepleriana" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "kepleriano",
+    "description" : "Relativo a Kepler ou às suas leis astronômicas.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "keplerianos",
+    "description" : "Relativo ao astrônomo Johannes Kepler ou às suas teorias e descobertas.",
+    "relations" : [ {
+      "synonym_of" : [ "kepleriano" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "kepleriano" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "Kioto",
+    "description" : "Kioto é uma cidade localizada no Japão, conhecida por seus templos budistas, jardins, palácios imperiais, santuários xintoístas e casas de madeira tradicionais.",
+    "relations" : [ {
+      "synonym_of" : [ "Kyoto" ]
+    }, {
+      "hypernym_of" : [ "cidade" ]
+    }, {
+      "hyponym_of" : [ "cidade do Japão" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "Japão" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "Klein",
+    "description" : "Sobrenome de origem germânica que significa 'pequeno' em alemão.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  } ]
+}

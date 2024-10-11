@@ -1,0 +1,5403 @@
+{
+  "x" : [ {
+    "word" : "xá",
+    "description" : "Título de soberano na antiga Pérsia (Irã).",
+    "relations" : [ {
+      "synonym_of" : [ "xáh", "shah" ]
+    }, {
+      "hypernym_of" : [ "monarca", "soberano" ]
+    }, {
+      "hyponym_of" : [ "rei", "imperador" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "chá" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xadrez",
+    "description" : "Jogo de tabuleiro estratégico para dois jogadores.",
+    "relations" : [ {
+      "synonym_of" : [ "jogo de xadrez" ]
+    }, {
+      "hypernym_of" : [ "jogo", "tabuleiro" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ "peça de xadrez", "tabuleiro de xadrez" ]
+    }, {
+      "holonym_of" : [ "jogo de tabuleiro" ]
+    }, {
+      "paronym_of" : [ "xadrezado" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xale",
+    "description" : "Peça de vestuário, geralmente de forma retangular ou triangular, usada sobre os ombros, principalmente por mulheres, para aquecer ou como adorno.",
+    "relations" : [ {
+      "synonym_of" : [ "chal" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "pelerine", "mantilha" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xales",
+    "description" : "Peça de vestuário geralmente usada para cobrir os ombros ou a cabeça, frequentemente feita de tecido leve.",
+    "relations" : [ {
+      "synonym_of" : [ "chal", "xaile" ]
+    }, {
+      "hypernym_of" : [ "roupa", "vestimenta" ]
+    }, {
+      "hyponym_of" : [ "pashmina", "mantilha" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xará",
+    "description" : "Pessoa que tem o mesmo nome que outra.",
+    "relations" : [ {
+      "synonym_of" : [ "homônimo" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xarás",
+    "description" : "Xarás é uma palavra que se refere a pessoas que têm o mesmo nome.",
+    "relations" : [ {
+      "synonym_of" : [ "homônimo" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xaropada",
+    "description" : "Ato ou efeito de falar ou fazer algo que é considerado chato, enfadonho ou irritante.",
+    "relations" : [ {
+      "synonym_of" : [ "chateação", "aborrecimento", "enfado" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xarope" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "diversão", "entretenimento" ]
+    } ]
+  }, {
+    "word" : "xaropadas",
+    "description" : "A palavra 'xaropadas' é um substantivo feminino plural em português, derivado de 'xaropada', que pode se referir a algo considerado chato ou enfadonho, ou ainda a uma dose de xarope.",
+    "relations" : [ {
+      "synonym_of" : [ "chateações", "aborrecimentos" ]
+    }, {
+      "hypernym_of" : [ "xaropada" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "diversões", "entretenimentos" ]
+    } ]
+  }, {
+    "word" : "xarope",
+    "description" : "Substância líquida e viscosa, geralmente adoçada e aromatizada, usada para tratar tosse e outras condições médicas.",
+    "relations" : [ {
+      "synonym_of" : [ "calda", "melado" ]
+    }, {
+      "hypernym_of" : [ "remédio", "medicamento" ]
+    }, {
+      "hyponym_of" : [ "xarope para tosse", "xarope de bordo" ]
+    }, {
+      "meronym_of" : [ "açúcar", "água", "aroma" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xaropada" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xaropes",
+    "description" : "Substância líquida, geralmente doce e espessa, usada como medicamento ou aditivo alimentar.",
+    "relations" : [ {
+      "synonym_of" : [ "medicamentos líquidos", "remédios líquidos" ]
+    }, {
+      "hypernym_of" : [ "melado", "calda" ]
+    }, {
+      "hyponym_of" : [ "xarope de guaco", "xarope de mel", "xarope de agave" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xaropada" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xavier",
+    "description" : "Xavier é um nome próprio masculino de origem basca, que significa 'casa nova'.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xelim",
+    "description" : "Unidade monetária de vários países africanos e asiáticos.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "moeda", "divisa" ]
+    }, {
+      "hyponym_of" : [ "shilling" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xelins",
+    "description" : "Unidade monetária usada em alguns países da África Oriental, como Quênia, Tanzânia e Uganda.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "moeda", "unidade monetária" ]
+    }, {
+      "hyponym_of" : [ "shilling" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xenófoba",
+    "description" : "Relativo ou característico de xenofobia, que é a aversão ou preconceito contra pessoas de outras nacionalidades.",
+    "relations" : [ {
+      "synonym_of" : [ "xenofóbica" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xenofobia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "cosmopolita", "tolerante" ]
+    } ]
+  }, {
+    "word" : "xenófobas",
+    "description" : "Forma feminina plural de 'xenófobo', que se refere a pessoas que têm aversão ou preconceito contra estrangeiros ou coisas estrangeiras.",
+    "relations" : [ {
+      "synonym_of" : [ "xenofóbicas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "xenófilas" ]
+    } ]
+  }, {
+    "word" : "xenofobia",
+    "description" : "Aversão ou preconceito contra pessoas de outros países ou culturas.",
+    "relations" : [ {
+      "synonym_of" : [ "intolerância", "preconceito" ]
+    }, {
+      "hypernym_of" : [ "racismo", "discriminação" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xenófilo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "xenofilia" ]
+    } ]
+  }, {
+    "word" : "xenófobo",
+    "description" : "Pessoa que tem aversão ou preconceito contra estrangeiros.",
+    "relations" : [ {
+      "synonym_of" : [ "preconceituoso", "intolerante" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "racista", "nativista" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xenofobia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "cosmopolita", "tolerante" ]
+    } ]
+  }, {
+    "word" : "xenófobos",
+    "description" : "Pessoas que têm aversão ou preconceito contra estrangeiros ou pessoas de outras culturas.",
+    "relations" : [ {
+      "synonym_of" : [ "intolerantes", "preconceituosos" ]
+    }, {
+      "hypernym_of" : [ "racistas", "nacionalistas extremos" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "xenofobia" ]
+    }, {
+      "paronym_of" : [ "xenófilos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "xenófilos", "cosmopolitas" ]
+    } ]
+  }, {
+    "word" : "xenônio",
+    "description" : "Xenônio é um elemento químico de símbolo Xe e número atômico 54. É um gás nobre, incolor, inodoro e pesado, encontrado em pequenas quantidades na atmosfera terrestre.",
+    "relations" : [ {
+      "synonym_of" : [ "Xe" ]
+    }, {
+      "hypernym_of" : [ "gás nobre", "elemento químico" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "atmosfera terrestre" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xeque",
+    "description" : "Termo utilizado no xadrez para indicar que o rei está sob ameaça de captura.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "movimento no xadrez" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "cheque", "cheque-mate" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "xeque-mate" ]
+    } ]
+  }, {
+    "word" : "xeques",
+    "description" : "Plural de xeque, que pode se referir a um líder muçulmano ou uma situação no xadrez onde o rei está ameaçado.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "líder muçulmano", "situação de ameaça no xadrez" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "cheques", "checks" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xereta",
+    "description" : "Pessoa que se intromete em assuntos alheios, curiosa ou bisbilhoteira.",
+    "relations" : [ {
+      "synonym_of" : [ "intrometido", "curioso", "bisbilhoteiro" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "discreto" ]
+    } ]
+  }, {
+    "word" : "xeretá",
+    "description" : "Verbo informal do português brasileiro que significa bisbilhotar ou intrometer-se em assuntos alheios.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotar", "intrometer-se" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorar", "desinteressar-se" ]
+    } ]
+  }, {
+    "word" : "xeretado",
+    "description" : "Participio do verbo xeretar, que significa intrometer-se em assuntos alheios, bisbilhotar.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotado", "intrometido" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocado" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xeretai",
+    "description" : "A palavra 'xeretai' é uma forma coloquial e informal do verbo 'xeretar', que significa bisbilhotar ou intrometer-se na vida alheia.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotar", "intrometer-se", "fuçar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorar", "desconsiderar" ]
+    } ]
+  }, {
+    "word" : "xeretais",
+    "description" : "Forma verbal do verbo 'xeretar' na segunda pessoa do plural do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotais", "fuçais" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorarais", "desinteressais" ]
+    } ]
+  }, {
+    "word" : "xeretam",
+    "description" : "Forma conjugada do verbo 'xeretar', na terceira pessoa do plural do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotam", "fuçam" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretam", "xeretaram" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignoram", "desconsideram" ]
+    } ]
+  }, {
+    "word" : "xeretamo",
+    "description" : "A palavra 'xeretamo' parece ser uma combinação ou variação de 'xereta' e 'amo', possivelmente usada para descrever uma pessoa que gosta de se intrometer ou bisbilhotar com um tom de carinho ou afeto.",
+    "relations" : [ {
+      "synonym_of" : [ "xereta", "bisbilhoteiro" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "discreto", "reservado" ]
+    } ]
+  }, {
+    "word" : "xeretamos",
+    "description" : "Forma conjugada do verbo 'xeretar' na 1ª pessoa do plural do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotamos", "intrometemos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocamos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignoramos", "desconsideramos" ]
+    } ]
+  }, {
+    "word" : "xeretando",
+    "description" : "A palavra 'xeretando' é o gerúndio do verbo 'xeretar', que significa bisbilhotar, investigar ou se intrometer em assuntos alheios.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotando", "fuçando" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorar", "desinteressar" ]
+    } ]
+  }, {
+    "word" : "xeretar",
+    "description" : "Verbo que significa bisbilhotar ou intrometer-se em assuntos alheios.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotar", "fuçar", "intrometer-se", "espiar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorar", "desinteressar-se" ]
+    } ]
+  }, {
+    "word" : "xeretara",
+    "description" : "Forma do verbo 'xeretar' conjugada no pretérito mais-que-perfeito do indicativo, terceira pessoa do singular.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotara", "fuçara" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretara" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorara", "desconsiderara" ]
+    } ]
+  }, {
+    "word" : "xeretará",
+    "description" : "Forma verbal do verbo 'xeretar', que significa bisbilhotar, intrometer-se em assuntos alheios.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotará", "intrometerá" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorar", "desconsiderar" ]
+    } ]
+  }, {
+    "word" : "xeretaram",
+    "description" : "Forma verbal do verbo 'xeretar' no pretérito perfeito do indicativo, terceira pessoa do plural.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotaram", "fuçaram" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorar", "desconsideraram" ]
+    } ]
+  }, {
+    "word" : "xeretáramos",
+    "description" : "Forma do verbo 'xeretar' conjugada na primeira pessoa do plural do pretérito mais-que-perfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotar", "fuçar", "investigar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretarmos", "xeretássemos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorar", "desconsiderar" ]
+    } ]
+  }, {
+    "word" : "xeretarão",
+    "description" : "Forma verbal do verbo 'xeretar', que significa bisbilhotar ou intrometer-se em assuntos alheios.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotarão", "intrometerão" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretarão" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorarão", "desconsiderarão" ]
+    } ]
+  }, {
+    "word" : "xeretaras",
+    "description" : "Forma verbal do verbo xeretar, que significa bisbilhotar ou investigar algo de maneira curiosa e indiscreta.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotar", "fuçar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorar", "desconsiderar" ]
+    } ]
+  }, {
+    "word" : "xeretarás",
+    "description" : "Forma verbal do verbo 'xeretar', na segunda pessoa do singular do futuro do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotarás", "fuçarás", "espiarás" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorarás", "desprezarás" ]
+    } ]
+  }, {
+    "word" : "xeretardes",
+    "description" : "Forma conjugada do verbo 'xeretar' na segunda pessoa do plural do futuro do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotardes", "fuçardes" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretardes" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorardes" ]
+    } ]
+  }, {
+    "word" : "xeretarei",
+    "description" : "Forma verbal do verbo 'xeretar', na primeira pessoa do singular do futuro do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotarei", "fuçarei" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorarei", "desconsiderarei" ]
+    } ]
+  }, {
+    "word" : "xeretareis",
+    "description" : "Forma conjugada do verbo 'xeretar' na segunda pessoa do plural do futuro do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotareis" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretarei" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorarás" ]
+    } ]
+  }, {
+    "word" : "xeretáreis",
+    "description" : "Forma verbal do verbo 'xeretar' conjugado na segunda pessoa do plural do futuro do pretérito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotaríeis", "fuçaríeis" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretaríeis" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignoráreis", "desconsideraríeis" ]
+    } ]
+  }, {
+    "word" : "xeretarem",
+    "description" : "Forma verbal do verbo 'xeretar', no modo subjuntivo ou futuro do pretérito.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotarem", "fuçarem" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorarem", "desconsiderarem" ]
+    } ]
+  }, {
+    "word" : "xeretaremo",
+    "description" : "Forma verbal do verbo 'xeretar' no futuro do presente do indicativo, primeira pessoa do plural.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotaremos", "fuçaremos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretarmos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignoraremos", "desconsideraremos" ]
+    } ]
+  }, {
+    "word" : "xeretaremos",
+    "description" : "Forma verbal do verbo 'xeretar', que significa bisbilhotar, intrometer-se em assuntos alheios.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotaremos", "intrometeremos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xereta", "xeretagem" ]
+    }, {
+      "troponym_of" : [ "investigaremos", "espiolharemos" ]
+    }, {
+      "antonym_of" : [ "ignoraremos", "desconsideraremos" ]
+    } ]
+  }, {
+    "word" : "xeretares",
+    "description" : "Ato de se intrometer em assuntos alheios, bisbilhotar.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotar", "intrometer-se" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorar", "desinteressar-se" ]
+    } ]
+  }, {
+    "word" : "xeretaria",
+    "description" : "Ato ou efeito de xeretar; bisbilhotar, intrometer-se em assuntos alheios.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotaria", "intromissão" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "xeretar" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "secretaria" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "discrição" ]
+    } ]
+  }, {
+    "word" : "xeretariam",
+    "description" : "Forma do verbo xeretar conjugada na terceira pessoa do plural do futuro do pretérito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xeretaríamos",
+    "description" : "Forma verbal do verbo 'xeretar' conjugada na primeira pessoa do plural do futuro do pretérito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotaríamos", "fuçaríamos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretaríamos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignoraríamos" ]
+    } ]
+  }, {
+    "word" : "xeretarias",
+    "description" : "Ato ou efeito de xeretar; bisbilhotice.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotices", "intromissões" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "discrição", "reserva" ]
+    } ]
+  }, {
+    "word" : "xeretaríeis",
+    "description" : "Forma verbal do verbo 'xeretar' conjugado no futuro do pretérito do indicativo, segunda pessoa do plural.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotaríeis", "fuçaríeis" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignoraríeis" ]
+    } ]
+  }, {
+    "word" : "xeretar",
+    "description" : "Verbo que significa bisbilhotar, intrometer-se em assuntos alheios.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotar", "fuçar", "intrometer-se" ]
+    }, {
+      "hypernym_of" : [ "investigar", "observar" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretamento" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorar", "desinteressar-se" ]
+    } ]
+  }, {
+    "word" : "xeretarmos",
+    "description" : "Forma verbal do verbo 'xeretar', que significa bisbilhotar ou intrometer-se em assuntos alheios.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotarmos", "intrometermos-nos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretarmos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorarmos", "desinteressarmos-nos" ]
+    } ]
+  }, {
+    "word" : "xeretas",
+    "description" : "Indivíduos que se intrometem em assuntos alheios ou são curiosos de forma inconveniente.",
+    "relations" : [ {
+      "synonym_of" : [ "curiosos", "intrometidos", "bisbilhoteiros" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "discretos", "reservados" ]
+    } ]
+  }, {
+    "word" : "xeretasse",
+    "description" : "Forma do verbo 'xeretar' conjugada no pretérito imperfeito do subjuntivo, primeira ou terceira pessoa do singular.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotasse", "fuçasse" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorasse", "desconsiderasse" ]
+    } ]
+  }, {
+    "word" : "xeretásseis",
+    "description" : "Forma verbal do verbo 'xeretar', conjugado na 2ª pessoa do plural do pretérito imperfeito do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xeretassem",
+    "description" : "Forma do verbo 'xeretar' no pretérito imperfeito do subjuntivo, terceira pessoa do plural.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotassem", "fuçassem" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorassem", "desconsiderassem" ]
+    } ]
+  }, {
+    "word" : "xeretássemos",
+    "description" : "Forma do verbo 'xeretar' conjugado na 1ª pessoa do plural do pretérito imperfeito do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotássemos", "fuçássemos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorássemos", "desconsiderássemos" ]
+    } ]
+  }, {
+    "word" : "xeretasses",
+    "description" : "Forma verbal do verbo xeretar na segunda pessoa do singular do pretérito imperfeito do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotasses", "fuçasses" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xereta", "xeretar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorasses", "desconsiderasses" ]
+    } ]
+  }, {
+    "word" : "xeretaste",
+    "description" : "Forma verbal do verbo 'xeretar' conjugada na 2ª pessoa do singular do pretérito perfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotaste", "fuçaste" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignoras" ]
+    } ]
+  }, {
+    "word" : "xeretastes",
+    "description" : "Forma conjugada do verbo 'xeretar' na segunda pessoa do plural do pretérito perfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotastes", "intrometestes" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorastes", "desconsiderastes" ]
+    } ]
+  }, {
+    "word" : "xeretava",
+    "description" : "O verbo 'xeretava' é a forma no pretérito imperfeito do verbo 'xeretar', que significa bisbilhotar, intrometer-se em assuntos alheios.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotava", "intrometia-se" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorava", "desconsiderava" ]
+    } ]
+  }, {
+    "word" : "xeretavam",
+    "description" : "Forma do verbo xeretar, no pretérito imperfeito do indicativo, terceira pessoa do plural.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotavam", "fuçavam" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignoravam", "desconsideravam" ]
+    } ]
+  }, {
+    "word" : "xeretávamos",
+    "description" : "Forma do verbo 'xeretar' conjugada na primeira pessoa do plural do pretérito imperfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotávamos", "fuçávamos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocávamos" ]
+    }, {
+      "troponym_of" : [ "espionávamos" ]
+    }, {
+      "antonym_of" : [ "ignorávamos", "desconsiderávamos" ]
+    } ]
+  }, {
+    "word" : "xeretavas",
+    "description" : "Forma do verbo 'xeretar' conjugada na segunda pessoa do singular do pretérito imperfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotavas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignoravas" ]
+    } ]
+  }, {
+    "word" : "xeretáveis",
+    "description" : "Adjetivo que se refere a algo ou alguém que tem a tendência de ser curioso ou intrometido.",
+    "relations" : [ {
+      "synonym_of" : [ "intrometidos", "curiosos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xereta" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "discretos", "reservados" ]
+    } ]
+  }, {
+    "word" : "xerete",
+    "description" : "Pessoa curiosa, intrometida, que gosta de bisbilhotar a vida alheia.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhoteiro", "curioso", "intrometido" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "discreto", "reservado" ]
+    } ]
+  }, {
+    "word" : "xeretei",
+    "description" : "Forma conjugada do verbo 'xeretar', na primeira pessoa do singular do pretérito perfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotei", "fucei" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerete" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorei", "desconsiderei" ]
+    } ]
+  }, {
+    "word" : "xereteis",
+    "description" : "Forma verbal do verbo 'xeretar' na segunda pessoa do plural do pretérito perfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhoteis", "fuçasteis" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretes" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorar", "desinteressar-se" ]
+    } ]
+  }, {
+    "word" : "xeretem",
+    "description" : "Forma conjugada do verbo 'xeretar' na segunda pessoa do plural do presente do subjuntivo ou do imperativo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotem", "fuçem" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretem" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignorem", "desconsiderem" ]
+    } ]
+  }, {
+    "word" : "xeretemo",
+    "description" : "A palavra 'xeretemo' é uma gíria ou expressão coloquial usada em algumas regiões do Brasil para descrever uma pessoa que é curiosa ou intrometida.",
+    "relations" : [ {
+      "synonym_of" : [ "curioso", "intrometido" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "discreto", "reservado" ]
+    } ]
+  }, {
+    "word" : "xeretemos",
+    "description" : "Forma conjugada do verbo 'xeretar' na primeira pessoa do plural do presente do subjuntivo ou do futuro do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotemos", "fuchemos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xereteamos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ignoremos", "desconsideremos" ]
+    } ]
+  }, {
+    "word" : "xeretes",
+    "description" : "Pessoa que se intromete em assuntos alheios, bisbilhoteiro.",
+    "relations" : [ {
+      "synonym_of" : [ "intrometido", "bisbilhoteiro", "curioso" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "discreto", "reservado" ]
+    } ]
+  }, {
+    "word" : "xereto",
+    "description" : "Alguém que é curioso, bisbilhoteiro.",
+    "relations" : [ {
+      "synonym_of" : [ "curioso", "bisbilhoteiro" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeretar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "discreto", "reservado" ]
+    } ]
+  }, {
+    "word" : "xeretou",
+    "description" : "Forma verbal do verbo 'xeretar', que significa bisbilhotar, intrometer-se em assuntos alheios.",
+    "relations" : [ {
+      "synonym_of" : [ "bisbilhotou", "intrometeu-se" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ "espionou", "fuçou" ]
+    }, {
+      "antonym_of" : [ "ignorou", "desinteressou-se" ]
+    } ]
+  }, {
+    "word" : "xerife",
+    "description" : "Um oficial de justiça encarregado de manter a paz e a ordem em um condado ou município.",
+    "relations" : [ {
+      "synonym_of" : [ "delegado" ]
+    }, {
+      "hypernym_of" : [ "oficial de justiça" ]
+    }, {
+      "hyponym_of" : [ "policial" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerifes",
+    "description" : "Autoridade policial responsável por manter a lei e a ordem em uma determinada área.",
+    "relations" : [ {
+      "synonym_of" : [ "delegados", "policiais" ]
+    }, {
+      "hypernym_of" : [ "autoridades policiais", "agentes da lei" ]
+    }, {
+      "hyponym_of" : [ "xerife municipal", "xerife estadual" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerife" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "criminosos", "fora-da-lei" ]
+    } ]
+  }, {
+    "word" : "xeroca",
+    "description" : "Ato de fazer uma cópia utilizando uma máquina de xerox.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopia", "copia" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "duplicar", "reproduzir" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerox" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocá",
+    "description" : "Xerocá é um termo que se refere a uma espécie de árvore encontrada em regiões tropicais, conhecida cientificamente como 'Aspidosperma macrocarpon'.",
+    "relations" : [ {
+      "synonym_of" : [ "Aspidosperma macrocarpon" ]
+    }, {
+      "hypernym_of" : [ "árvore", "planta" ]
+    }, {
+      "hyponym_of" : [ "espécie de árvore", "espécie de planta" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocado",
+    "description" : "Algo que foi copiado usando uma máquina xerográfica.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiado" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocai",
+    "description" : "Uma espécie de palmeira nativa da região amazônica, conhecida por seus frutos comestíveis.",
+    "relations" : [ {
+      "synonym_of" : [ "bacaba-de-leque" ]
+    }, {
+      "hypernym_of" : [ "palmeira" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ "fruto", "folha", "tronco" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocar", "xerocó" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocais",
+    "description" : "Relativo a ou característico de regiões áridas ou semiáridas.",
+    "relations" : [ {
+      "synonym_of" : [ "xerófilo" ]
+    }, {
+      "hypernym_of" : [ "desértico", "semiárido" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "úmido", "hidrófilo" ]
+    } ]
+  }, {
+    "word" : "xerocam",
+    "description" : "Xerocam é um termo técnico utilizado na medicina para se referir à sensação de boca seca.",
+    "relations" : [ {
+      "synonym_of" : [ "xerostomia" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "sialorreia" ]
+    } ]
+  }, {
+    "word" : "xerocamo",
+    "description" : "Região árida ou semiárida com vegetação esparsa adaptada à seca.",
+    "relations" : [ {
+      "synonym_of" : [ "deserto", "caatinga" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "sertão", "saara" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "floresta", "manguezal" ]
+    } ]
+  }, {
+    "word" : "xerocamos",
+    "description" : "Refere-se a um tipo de paisagem ou ambiente seco e arenoso.",
+    "relations" : [ {
+      "synonym_of" : [ "desértico", "árido" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ "areia", "solo" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerófito", "xeroforme" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "úmido", "húmido" ]
+    } ]
+  }, {
+    "word" : "xerocando",
+    "description" : "Realizando cópias xerográficas ou fotocópias.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiando", "copiando" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "imprimindo" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocópia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocar",
+    "description" : "Reproduzir cópias de documentos ou imagens por meio de um processo de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "copiar" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocara",
+    "description" : "Refere-se a uma planta adaptada a ambientes secos, com características que permitem a sobrevivência em condições de baixa disponibilidade de água.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "planta" ]
+    }, {
+      "hyponym_of" : [ "xerófita" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "hidrófita" ]
+    } ]
+  }, {
+    "word" : "xerocará",
+    "description" : "Arbusto ou árvore pequena encontrada no cerrado brasileiro, conhecida por sua resistência à seca.",
+    "relations" : [ {
+      "synonym_of" : [ "Pseudobombax longiflorum" ]
+    }, {
+      "hypernym_of" : [ "árvore", "arbusto" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "cerrado" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocaram",
+    "description" : "Um verbo que significa fazer uma cópia xerográfica ou fotocópia.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocáramos",
+    "description" : "Frutos secos e duros que não se abrem para liberar sementes.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "frutos" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocarão",
+    "description" : "Forma verbal do verbo xerocar, que significa fazer uma cópia xerox de algo.",
+    "relations" : [ {
+      "synonym_of" : [ "copiar", "reproduzir" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocaras",
+    "description" : "Xerocaras é uma palavra usada para descrever plantas que possuem adaptações para viver em ambientes secos.",
+    "relations" : [ {
+      "synonym_of" : [ "xerófitas" ]
+    }, {
+      "hypernym_of" : [ "plantas" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "hidrófitas" ]
+    } ]
+  }, {
+    "word" : "xerocarás",
+    "description" : "Ato de fazer cópias xerográficas, geralmente em um ambiente de escritório.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocardes",
+    "description" : "Refere-se a plantas que possuem sementes adaptadas a ambientes secos.",
+    "relations" : [ {
+      "synonym_of" : [ "xerófilas" ]
+    }, {
+      "hypernym_of" : [ "sementes adaptadas ao ambiente seco" ]
+    }, {
+      "hyponym_of" : [ "plantas xeromórficas" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "hidrocardes" ]
+    } ]
+  }, {
+    "word" : "xerocarei",
+    "description" : "Secarei ao ar; ato de secar algo sem uso de calor artificial.",
+    "relations" : [ {
+      "synonym_of" : [ "desidratarei" ]
+    }, {
+      "hypernym_of" : [ "secarei" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "umedecerei", "molharei" ]
+    } ]
+  }, {
+    "word" : "xerocareis",
+    "description" : "Tipo de solo caracterizado por ser seco e arenoso, encontrado em regiões áridas.",
+    "relations" : [ {
+      "synonym_of" : [ "solo árido", "solo seco" ]
+    }, {
+      "hypernym_of" : [ "solo" ]
+    }, {
+      "hyponym_of" : [ "deserto", "semiárido" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "solo úmido", "solo fértil" ]
+    } ]
+  }, {
+    "word" : "xerocáreis",
+    "description" : "Refere-se a uma vegetação ou ecossistema adaptado a condições de seca ou aridez.",
+    "relations" : [ {
+      "synonym_of" : [ "xerófilas" ]
+    }, {
+      "hypernym_of" : [ "plantas xerófitas", "vegetação xerófila" ]
+    }, {
+      "hyponym_of" : [ "vegetação", "ecossistema" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerófilas" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "hidrófilas", "higrófilas" ]
+    } ]
+  }, {
+    "word" : "xerocarem",
+    "description" : "Secar ao ar, especialmente em um ambiente controlado.",
+    "relations" : [ {
+      "synonym_of" : [ "secar" ]
+    }, {
+      "hypernym_of" : [ "desidratar" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "umedecer" ]
+    } ]
+  }, {
+    "word" : "xerocaremo",
+    "description" : "Uma palavra aparentemente inventada ou muito rara, sem significado reconhecido em dicionários comuns.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocaremos",
+    "description" : "Forma verbal do verbo 'xerocar' conjugada na primeira pessoa do plural do futuro do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiaremos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocares",
+    "description" : "Habitantes de regiões áridas ou secas.",
+    "relations" : [ {
+      "synonym_of" : [ "xerófilos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerófagos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "higrófilos" ]
+    } ]
+  }, {
+    "word" : "xerocaria",
+    "description" : "Fruto seco, que não se abre espontaneamente para liberar as sementes.",
+    "relations" : [ {
+      "synonym_of" : [ "fruto seco indeiscente" ]
+    }, {
+      "hypernym_of" : [ "fruto" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "fruto seco deiscente" ]
+    } ]
+  }, {
+    "word" : "xerocariam",
+    "description" : "Referente à xerocaria, que é um tipo de vegetação adaptada a ambientes secos.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "vegetação" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocaríamos",
+    "description" : "Forma verbal do verbo xerocar, que significa fazer xerox ou fotocópia.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiaríamos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocarias",
+    "description" : "Plantas que têm frutos secos.",
+    "relations" : [ {
+      "synonym_of" : [ "plantas de frutos secos" ]
+    }, {
+      "hypernym_of" : [ "plantas" ]
+    }, {
+      "hyponym_of" : [ "xerófitas" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerófitas" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "hidrocarias" ]
+    } ]
+  }, {
+    "word" : "xerocaríeis",
+    "description" : "Frutos secos que não se abrem espontaneamente para liberar as sementes.",
+    "relations" : [ {
+      "synonym_of" : [ "frutos secos indeiscentes" ]
+    }, {
+      "hypernym_of" : [ "frutos" ]
+    }, {
+      "hyponym_of" : [ "aquenios", "nozes", "cariopses", "samara" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "frutos secos deiscentes" ]
+    } ]
+  }, {
+    "word" : "xerocarmo",
+    "description" : "Um tipo de vegetação adaptada a condições de extrema aridez, típica de regiões semiáridas.",
+    "relations" : [ {
+      "synonym_of" : [ "xeromorfo" ]
+    }, {
+      "hypernym_of" : [ "vegetação" ]
+    }, {
+      "hyponym_of" : [ "caatinga" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "hidrófilo" ]
+    } ]
+  }, {
+    "word" : "xerocarmos",
+    "description" : "Secar ou desidratar algo, especialmente em um contexto biológico ou ambiental.",
+    "relations" : [ {
+      "synonym_of" : [ "desidratar", "secar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "hidratar", "umedecer" ]
+    } ]
+  }, {
+    "word" : "xerocas",
+    "description" : "Plural de xeroca, uma forma coloquial e regional de se referir a cópias xerográficas.",
+    "relations" : [ {
+      "synonym_of" : [ "cópias xerográficas", "fotocópias" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocasse",
+    "description" : "Condição de extrema secura ou aridez.",
+    "relations" : [ {
+      "synonym_of" : [ "aridez", "secura" ]
+    }, {
+      "hypernym_of" : [ "deserto", "semiárido" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerose" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "umidade", "fertilidade" ]
+    } ]
+  }, {
+    "word" : "xerocásseis",
+    "description" : "Que se refere a plantas adaptadas a ambientes secos.",
+    "relations" : [ {
+      "synonym_of" : [ "xerófilas" ]
+    }, {
+      "hypernym_of" : [ "xeromórficas" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerófitas" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "hidrófilas" ]
+    } ]
+  }, {
+    "word" : "xerocassem",
+    "description" : "A palavra 'xerocassem' não parece ser uma palavra reconhecida na língua portuguesa. Pode ser um erro de digitação ou uma palavra inventada.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocássemos",
+    "description" : "Forma do verbo xerocar conjugado na primeira pessoa do plural do pretérito imperfeito do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiássemos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocásseis", "xerocásse" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocasses",
+    "description" : "O termo 'xerocasses' não é comum em português e parece ser uma forma plural de 'xerocasse', que pode ser um termo técnico ou específico de um campo de estudo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocaste",
+    "description" : "Refere-se a uma planta adaptada a condições de seca, especialmente em regiões áridas.",
+    "relations" : [ {
+      "synonym_of" : [ "xerófito" ]
+    }, {
+      "hypernym_of" : [ "planta" ]
+    }, {
+      "hyponym_of" : [ "cacto", "suculenta" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "hidrófito" ]
+    } ]
+  }, {
+    "word" : "xerocastes",
+    "description" : "Indivíduos que habitam ambientes secos ou áridos.",
+    "relations" : [ {
+      "synonym_of" : [ "xerófilos" ]
+    }, {
+      "hypernym_of" : [ "xerófitas", "xerocoles" ]
+    }, {
+      "hyponym_of" : [ "habitantes" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerófilos", "xeromorfos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "higrófilos" ]
+    } ]
+  }, {
+    "word" : "xerocava",
+    "description" : "Refere-se a uma planta adaptada a ambientes secos, especialmente aquelas que possuem adaptações morfológicas e fisiológicas para sobreviver com pouca água.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "planta xerófita" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "hidrófila" ]
+    } ]
+  }, {
+    "word" : "xerocavam",
+    "description" : "Forma verbal do verbo 'xerocar', que significa fazer cópias xerográficas, ou seja, fotocopiar.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiavam" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocavam" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocávamos",
+    "description" : "Forma do verbo 'xerocar' na primeira pessoa do plural do pretérito imperfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiávamos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocavas",
+    "description" : "Regiões desérticas ou semiáridas que possuem cavidades ou depressões naturais.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "deserto", "região semiárida" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocáveis",
+    "description" : "Adjetivo plural de 'xerocável', que se refere a algo que pode ser xerocado (copiado por meio de uma máquina xerox).",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiáveis" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocável" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xeroco",
+    "description" : "Relativo a ou característico de algo seco ou árido.",
+    "relations" : [ {
+      "synonym_of" : [ "seco", "árido" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "úmido", "molhado" ]
+    } ]
+  }, {
+    "word" : "xerocópia",
+    "description" : "Cópia de documento ou imagem feita por meio de processo xerográfico.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocópia" ]
+    }, {
+      "hypernym_of" : [ "cópia" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerox" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocópias",
+    "description" : "Cópias feitas por meio de um processo de xerografia, geralmente em uma máquina de fotocópias.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocópias" ]
+    }, {
+      "hypernym_of" : [ "documentos" ]
+    }, {
+      "hyponym_of" : [ "duplicatas", "reproduções" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerox" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerocou",
+    "description" : "Ação de fazer cópias xerográficas ou fotocópias.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiou" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "copiou" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerox" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografa",
+    "description" : "Ação de reproduzir documentos ou imagens por meio de uma máquina xerográfica.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopia", "reproduz" ]
+    }, {
+      "hypernym_of" : [ "copia", "reproduz" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografá",
+    "description" : "Verbo que se refere ao processo de reprodução de documentos ou imagens por meio de xerografia (fotocópia).",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiar", "copiar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografado",
+    "description" : "Participio passado do verbo xerografar, que significa copiar ou reproduzir documentos utilizando o processo de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "copiado", "reproduzido" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar", "xerografia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografai",
+    "description" : "A palavra 'xerografai' parece ser um erro de digitação ou uma forma não reconhecida em português. Não há informações suficientes para determinar relações semânticas.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografais",
+    "description" : "Forma verbal do verbo 'xerografar', segunda pessoa do plural do presente do subjuntivo ou do imperativo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografas", "xerografam" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografam",
+    "description" : "Forma verbal do verbo 'xerografar', que significa copiar ou reproduzir documentos ou imagens utilizando o processo de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "copiam", "reproduzem" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografamo",
+    "description" : "Ação de reproduzir documentos ou imagens por meio de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiamos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografamos",
+    "description" : "Primeira pessoa do plural do presente do indicativo do verbo xerografar, que significa reproduzir documentos ou imagens por meio de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiamos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocopiamos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografando",
+    "description" : "Ação de reproduzir documentos ou imagens utilizando xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiando" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografar",
+    "description" : "Imprimir ou reproduzir por meio de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiar", "reproduzir" ]
+    }, {
+      "hypernym_of" : [ "imprimir" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografara",
+    "description" : "Forma conjugada do verbo xerografar, que significa reproduzir ou copiar documentos através de um processo de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "copiara" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografará",
+    "description" : "Verbo no futuro do indicativo, terceira pessoa do singular, do verbo xerografar, que significa reproduzir ou copiar documentos por meio de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografaram",
+    "description" : "Forma verbal do verbo 'xerografar', que significa reproduzir documentos por meio de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "copiaram", "reproduziram" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "fotocopiaram" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografarem" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografáramos",
+    "description" : "Forma do verbo xerografar no pretérito mais-que-perfeito do subjuntivo, primeira pessoa do plural.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografássemos", "xerografamos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografarão",
+    "description" : "Forma verbal no futuro do plural de 'xerografar', que significa reproduzir documentos ou imagens por meio de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografaram", "xerografarem" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografaras",
+    "description" : "Forma do verbo xerografar conjugado na segunda pessoa do singular do pretérito mais-que-perfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiarias" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografarás" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografarás",
+    "description" : "Verbo no futuro do presente do indicativo da segunda pessoa do singular do verbo xerografar, que significa reproduzir documentos ou imagens por meio de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "copiarás", "reproduzirás" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografará" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "originalizarás", "criarás" ]
+    } ]
+  }, {
+    "word" : "xerografardes",
+    "description" : "Forma verbal do verbo xerografar na segunda pessoa do plural do futuro do subjuntivo ou do infinitivo pessoal.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografarei",
+    "description" : "Forma do verbo 'xerografar' conjugada na primeira pessoa do singular do futuro do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocarrei" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografareis",
+    "description" : "Forma verbal do futuro do presente do indicativo, segunda pessoa do plural do verbo 'xerografar'.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografáreis",
+    "description" : "Forma verbal do verbo 'xerografar' na segunda pessoa do plural do pretérito imperfeito do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocopiáreis" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografarem",
+    "description" : "Forma do verbo xerografar no futuro do subjuntivo ou infinitivo pessoal.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografaremo",
+    "description" : "Forma verbal conjugada do verbo 'xerografar' na primeira pessoa do plural do futuro do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografaremos",
+    "description" : "Forma verbal do verbo 'xerografar', que significa reproduzir documentos ou imagens por meio de um processo de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografares",
+    "description" : "Forma do verbo xerografar, que se refere ao ato de fazer cópias utilizando o processo de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografaria",
+    "description" : "Estabelecimento onde se realizam serviços de xerografia, como cópias e impressões.",
+    "relations" : [ {
+      "synonym_of" : [ "copiadora", "gráfica" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "estabelecimento comercial" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografariam",
+    "description" : "Forma verbal do verbo 'xerografar' no futuro do pretérito do indicativo, terceira pessoa do plural.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografaríamos",
+    "description" : "Forma verbal do verbo 'xerografar' conjugado na primeira pessoa do plural do futuro do pretérito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiaríamos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografarias",
+    "description" : "Forma verbal do verbo xerografar, referente ao ato de fazer xerocópias.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiarias", "reproduzirias" ]
+    }, {
+      "hypernym_of" : [ "imprimirias" ]
+    }, {
+      "hyponym_of" : [ "xerocopiarias" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografias" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "digitalizarias" ]
+    } ]
+  }, {
+    "word" : "xerografaríeis",
+    "description" : "Forma verbal do verbo 'xerografar' conjugada na 2ª pessoa do plural do futuro do pretérito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocopiariam", "fotocopiariam" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografar",
+    "description" : "Realizar cópias ou impressões utilizando o processo de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiar", "copiar" ]
+    }, {
+      "hypernym_of" : [ "imprimir" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografia", "xerox" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "digitalizar" ]
+    } ]
+  }, {
+    "word" : "xerografarmos",
+    "description" : "Forma do verbo xerografar na primeira pessoa do plural do futuro do subjuntivo ou do infinitivo pessoal.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografas",
+    "description" : "Forma do verbo 'xerografar' na segunda pessoa do plural do presente do indicativo ou do imperativo afirmativo.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiais" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografasse",
+    "description" : "Forma do verbo 'xerografar' no pretérito imperfeito do subjuntivo, primeira ou terceira pessoa do singular.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografásseis",
+    "description" : "Forma verbal do verbo xerografar, na segunda pessoa do plural do pretérito imperfeito do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografassem",
+    "description" : "Forma do verbo 'xerografar' conjugado na terceira pessoa do plural do pretérito imperfeito do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocar", "xerocópia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografássemos",
+    "description" : "Forma verbal conjugada do verbo xerografar na primeira pessoa do plural do pretérito imperfeito do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografasses",
+    "description" : "Forma do verbo xerografar na 2ª pessoa do singular do pretérito imperfeito do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografaste",
+    "description" : "Forma do verbo xerografar, conjugado na segunda pessoa do singular do pretérito perfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografastes",
+    "description" : "Forma verbal do verbo xerografar, no pretérito perfeito do indicativo, segunda pessoa do plural.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografava",
+    "description" : "Ação de realizar uma cópia xerográfica, ou seja, uma cópia feita por meio de um processo de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiava", "reproduzia" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografavam",
+    "description" : "Forma verbal do verbo xerografar no pretérito imperfeito do indicativo, terceira pessoa do plural.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiavam" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "copiavam" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocavam" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografávamos",
+    "description" : "Forma verbal do verbo 'xerografar' na primeira pessoa do plural do pretérito imperfeito do indicativo, que significa fazer cópias xerográficas.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiávamos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocopiávamos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografavas",
+    "description" : "Forma verbal do verbo 'xerografar', que significa realizar cópias de documentos ou imagens por meio de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "copiavas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "digitalizavas" ]
+    } ]
+  }, {
+    "word" : "xerografáveis",
+    "description" : "Que pode ser xerografado, ou seja, reproduzido por meio de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiáveis" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografias" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografe",
+    "description" : "Xerografe refere-se a um tipo de impressão ou cópia realizada por meio de um processo eletrostático, comumente conhecido como xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "xerocopiar", "fotocopiar" ]
+    }, {
+      "hypernym_of" : [ "imprimir" ]
+    }, {
+      "hyponym_of" : [ "xerox" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografei",
+    "description" : "Forma conjugada do verbo xerografar, que significa reproduzir ou copiar documentos e imagens por meio de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "copiei", "reproduzi" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "imprimi", "digitalizei" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "apaguei", "destrui" ]
+    } ]
+  }, {
+    "word" : "xerografeis",
+    "description" : "Forma conjugada do verbo xerografar na segunda pessoa do plural do futuro do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografem",
+    "description" : "Unidade mínima de escrita xerográfica.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografemo",
+    "description" : "Unidade mínima de impressão xerográfica, que pode ser um ponto, linha ou traço.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "elemento de impressão" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografemos",
+    "description" : "Forma conjugada do verbo 'xerografar' na primeira pessoa do plural do presente do subjuntivo ou do imperativo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografamos", "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografes",
+    "description" : "Uma forma alternativa de se referir a 'xerox', que é um processo de reprodução de documentos e imagens.",
+    "relations" : [ {
+      "synonym_of" : [ "xerox", "fotocópia" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografia",
+    "description" : "Processo de reprodução de imagens e textos por meio de eletrostática, popularmente conhecido como fotocópia.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocópia", "copiadora" ]
+    }, {
+      "hypernym_of" : [ "fotocópia" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerox" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerográfica",
+    "description" : "Relativo ao processo de xerografia, que é uma técnica de reprodução de imagens e textos por meio de fotocópias.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiadora", "copiadora" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "impressora xerográfica", "máquina xerográfica" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografia", "xerox" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerográficas",
+    "description" : "Referente à xerografia, um processo de reprodução de imagens e textos por meio de eletrofotografia.",
+    "relations" : [ {
+      "synonym_of" : [ "xerocópias" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "fotocópias" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerográfico",
+    "description" : "Relativo à xerografia, um processo de impressão que utiliza eletrostática para criar imagens em papel.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografia", "xerox" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerográficos",
+    "description" : "Referente à tecnologia de xerografia, que é um processo de reprodução de imagens e documentos por meio de eletrofotografia.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocópia" ]
+    }, {
+      "hypernym_of" : [ "impressão" ]
+    }, {
+      "hyponym_of" : [ "fotocópia a seco", "cópia xerográfica" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "tecnologia de impressão" ]
+    }, {
+      "paronym_of" : [ "xerografia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografo",
+    "description" : "Um dispositivo que utiliza o processo de xerografia para copiar documentos e imagens.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiadora", "copiadora" ]
+    }, {
+      "hypernym_of" : [ "máquina de copiar" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ "toner", "tambor" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerografou",
+    "description" : "Ação de fazer uma cópia xerográfica, ou seja, uma cópia feita por meio de xerografia.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiou" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "copiou" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerografar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xeroque",
+    "description" : "Xeroque é uma palavra coloquial, derivada de 'xerox', usada para se referir a uma cópia xerográfica de um documento.",
+    "relations" : [ {
+      "synonym_of" : [ "cópia", "xerox" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerox" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xeroquei",
+    "description" : "O verbo 'xeroquei' é uma forma conjugada do verbo 'xerocar', que significa fazer cópias xerográficas ou fotocópias.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocopiei" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerocar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xeroqueis",
+    "description" : "Refere-se a algo ou alguém que imita ou copia outra coisa ou pessoa.",
+    "relations" : [ {
+      "synonym_of" : [ "xerox", "cópia", "imitação" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "original", "autêntico" ]
+    } ]
+  }, {
+    "word" : "xeroquem",
+    "description" : "Xeroquem é uma planta da família das leguminosas, também conhecida como pau-de-bugre, utilizada na medicina popular.",
+    "relations" : [ {
+      "synonym_of" : [ "pau-de-bugre" ]
+    }, {
+      "hypernym_of" : [ "planta" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xeroquemo",
+    "description" : "Queimadura causada por radiação solar, comum em áreas áridas ou semiáridas.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "queimadura" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeroderma" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xeroquemos",
+    "description" : "Xeroquemos são plantas adaptadas a climas secos e áridos.",
+    "relations" : [ {
+      "synonym_of" : [ "xerófitas" ]
+    }, {
+      "hypernym_of" : [ "plantas" ]
+    }, {
+      "hyponym_of" : [ "cactos", "suculentas" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xerófilo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "hidrófilas" ]
+    } ]
+  }, {
+    "word" : "xeroques",
+    "description" : "Xeroques é um termo coloquial e informal utilizado em algumas regiões do Brasil para se referir a cópias xerográficas, ou seja, fotocópias.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocópias", "cópias xerográficas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xerox",
+    "description" : "A word often used to refer to a photocopy or the action of making a photocopy, derived from the brand name of a company that manufactures photocopiers.",
+    "relations" : [ {
+      "synonym_of" : [ "photocopy", "copy" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "reproduction", "duplicate" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xérox",
+    "description" : "Xérox é um termo que se refere a uma cópia feita por um processo de xerografia, que é uma técnica de reprodução de documentos e imagens.",
+    "relations" : [ {
+      "synonym_of" : [ "fotocópia" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xeroxar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xi",
+    "description" : "Décima quarta letra do alfabeto grego.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "alfabeto grego" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xícara",
+    "description" : "Um pequeno recipiente, geralmente com uma alça, usado para beber líquidos quentes como chá ou café.",
+    "relations" : [ {
+      "synonym_of" : [ "chávena" ]
+    }, {
+      "hypernym_of" : [ "recipiente", "copo" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ "alça" ]
+    }, {
+      "holonym_of" : [ "serviço de chá" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xícaras",
+    "description" : "Recipientes utilizados para beber líquidos, geralmente chá ou café.",
+    "relations" : [ {
+      "synonym_of" : [ "chávenas" ]
+    }, {
+      "hypernym_of" : [ "recipientes", "louça" ]
+    }, {
+      "hyponym_of" : [ "xícaras de chá", "xícaras de café" ]
+    }, {
+      "meronym_of" : [ "conjunto de louça" ]
+    }, {
+      "holonym_of" : [ "asa" ]
+    }, {
+      "paronym_of" : [ "xicara" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xiita",
+    "description" : "Relativo ao xiismo, uma das principais correntes do islamismo, ou a pessoa que segue essa corrente religiosa.",
+    "relations" : [ {
+      "synonym_of" : [ "shiita" ]
+    }, {
+      "hypernym_of" : [ "muçulmano" ]
+    }, {
+      "hyponym_of" : [ "islamita" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "sunita" ]
+    } ]
+  }, {
+    "word" : "xiitas",
+    "description" : "Xiitas são os seguidores de uma das principais correntes do Islã, o xiismo, que acredita na liderança de Ali, primo e genro do profeta Maomé, e de seus descendentes.",
+    "relations" : [ {
+      "synonym_of" : [ "shiitas" ]
+    }, {
+      "hypernym_of" : [ "muçulmanos", "islâmicos" ]
+    }, {
+      "hyponym_of" : [ "duodecimanos", "ismaelitas", "zaiditas" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "islamismo" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "sunitas" ]
+    } ]
+  }, {
+    "word" : "xilografia",
+    "description" : "Xilografia é uma técnica de gravura em que se utiliza uma matriz de madeira para imprimir imagens ou textos.",
+    "relations" : [ {
+      "synonym_of" : [ "gravação em madeira" ]
+    }, {
+      "hypernym_of" : [ "gravura", "impressão" ]
+    }, {
+      "hyponym_of" : [ "xilogravura" ]
+    }, {
+      "meronym_of" : [ "matriz de madeira", "ferramentas de gravação" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "litografia", "tipografia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "litografia", "calcografia" ]
+    } ]
+  }, {
+    "word" : "xilografias",
+    "description" : "Arte ou técnica de gravar em madeira para reprodução de imagens.",
+    "relations" : [ {
+      "synonym_of" : [ "gravura em madeira" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ "madeira", "gravação" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xilografia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xilogravura",
+    "description" : "Xilogravura é uma técnica de gravura na qual se utiliza madeira como matriz para a impressão.",
+    "relations" : [ {
+      "synonym_of" : [ "gravura em madeira", "xilografia" ]
+    }, {
+      "hypernym_of" : [ "gravura" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xilogravuras",
+    "description" : "Imagens ou textos impressos a partir de uma matriz de madeira entalhada.",
+    "relations" : [ {
+      "synonym_of" : [ "gravuras em madeira" ]
+    }, {
+      "hypernym_of" : [ "artes gráficas", "impressões" ]
+    }, {
+      "hyponym_of" : [ "xilografia" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xilografia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xinga",
+    "description" : "Proferir palavras ofensivas, insultar.",
+    "relations" : [ {
+      "synonym_of" : [ "insulta", "ofende" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "amaldiçoa", "injuria" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingamento" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogia", "louva" ]
+    } ]
+  }, {
+    "word" : "xingá",
+    "description" : "Verbo que significa dirigir palavras ofensivas a alguém, insultar, ofender.",
+    "relations" : [ {
+      "synonym_of" : [ "insultar", "ofender", "injuriar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiar", "louvar" ]
+    } ]
+  }, {
+    "word" : "xingação",
+    "description" : "Ato ou efeito de xingar; insulto, ofensa verbal.",
+    "relations" : [ {
+      "synonym_of" : [ "insulto", "ofensa", "injúria" ]
+    }, {
+      "hypernym_of" : [ "palavrão", "impropério" ]
+    }, {
+      "hyponym_of" : [ "ofensa verbal" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "exigência", "extinção" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogio", "louvor" ]
+    } ]
+  }, {
+    "word" : "xingações",
+    "description" : "Ato ou efeito de xingar; insultos, ofensas verbais.",
+    "relations" : [ {
+      "synonym_of" : [ "injúrias", "insultos", "ofensas", "impropérios" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingamento" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogios", "louvores" ]
+    } ]
+  }, {
+    "word" : "xingado",
+    "description" : "Ato de ter sido insultado ou ofendido verbalmente.",
+    "relations" : [ {
+      "synonym_of" : [ "insultado", "ofendido" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingamento" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiado" ]
+    } ]
+  }, {
+    "word" : "xingai",
+    "description" : "Usado no Brasil, 'xingai' é uma forma coloquial e informal de se referir ao ato de xingar, ou seja, proferir insultos ou palavras ofensivas.",
+    "relations" : [ {
+      "synonym_of" : [ "insultar", "ofender" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiar", "cumprimentar" ]
+    } ]
+  }, {
+    "word" : "xingais",
+    "description" : "Forma verbal do verbo xingar, segunda pessoa do plural do presente do subjuntivo ou do imperativo",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingais", "xingás" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xingam",
+    "description" : "Forma conjugada do verbo 'xingar', no presente do indicativo, terceira pessoa do plural",
+    "relations" : [ {
+      "synonym_of" : [ "insultam", "ofendem" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "amaldiçoam", "injuriam" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "singam" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiam", "louvam" ]
+    } ]
+  }, {
+    "word" : "xingamento",
+    "description" : "Ato ou efeito de xingar; insulto, ofensa verbal.",
+    "relations" : [ {
+      "synonym_of" : [ "insulto", "ofensa", "injúria" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "palavrão", "blasfêmia" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingamento", "exigente" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogio", "cumprimento" ]
+    } ]
+  }, {
+    "word" : "xingamentos",
+    "description" : "Ações ou palavras ofensivas dirigidas a alguém com a intenção de insultar ou humilhar.",
+    "relations" : [ {
+      "synonym_of" : [ "insultos", "ofensas" ]
+    }, {
+      "hypernym_of" : [ "injúrias", "palavrões" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingamento" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogios", "cumprimentos" ]
+    } ]
+  }, {
+    "word" : "xingamo",
+    "description" : "Ato de xingar, proferir insultos ou palavras ofensivas.",
+    "relations" : [ {
+      "synonym_of" : [ "insulto", "ofensa" ]
+    }, {
+      "hypernym_of" : [ "xingamento" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingamento" ]
+    }, {
+      "troponym_of" : [ "amaldiçoar", "esbravejar" ]
+    }, {
+      "antonym_of" : [ "elogio", "louvor" ]
+    } ]
+  }, {
+    "word" : "xingamos",
+    "description" : "Forma do verbo 'xingar' na primeira pessoa do plural do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultamos", "ofendemos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingamos (do verbo xingar)", "xingamos (do verbo xingar)" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiamos", "louvamos" ]
+    } ]
+  }, {
+    "word" : "xingando",
+    "description" : "Ato de proferir insultos ou palavras ofensivas.",
+    "relations" : [ {
+      "synonym_of" : [ "insultando", "ofendendo" ]
+    }, {
+      "hypernym_of" : [ "amaldiçoando" ]
+    }, {
+      "hyponym_of" : [ "reclamando" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingamento" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiando", "louvando" ]
+    } ]
+  }, {
+    "word" : "xingar",
+    "description" : "Expressar palavras ofensivas ou de baixo calão a alguém.",
+    "relations" : [ {
+      "synonym_of" : [ "insultar", "ofender", "injuriar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingamento" ]
+    }, {
+      "troponym_of" : [ "amaldiçoar" ]
+    }, {
+      "antonym_of" : [ "elogiar", "louvar" ]
+    } ]
+  }, {
+    "word" : "xingara",
+    "description" : "Verbo informal em português que significa insultar ou ofender alguém com palavras.",
+    "relations" : [ {
+      "synonym_of" : [ "xingar", "ofender", "insultar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiar", "complementar" ]
+    } ]
+  }, {
+    "word" : "xingará",
+    "description" : "Verbo no futuro do presente do indicativo do verbo 'xingar', que significa ofender ou insultar alguém com palavras.",
+    "relations" : [ {
+      "synonym_of" : [ "insultará", "ofenderá" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "singará" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiará", "louvará" ]
+    } ]
+  }, {
+    "word" : "xingaram",
+    "description" : "Forma do verbo 'xingar' conjugado na terceira pessoa do plural do pretérito perfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultaram", "ofenderam" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "singaram" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiaram", "louvaram" ]
+    } ]
+  }, {
+    "word" : "xingáramos",
+    "description" : "Forma do verbo xingar no pretérito mais-que-perfeito do modo indicativo, primeira pessoa do plural.",
+    "relations" : [ {
+      "synonym_of" : [ "insultáramos", "ofendêramos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingássemos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xingarão",
+    "description" : "Futuro do pretérito do verbo 'xingar', que significa ofender verbalmente alguém.",
+    "relations" : [ {
+      "synonym_of" : [ "insultarão", "ofenderão" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "amaldiçoarão", "maldirão" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingaram", "xingará" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiarão", "louvarão" ]
+    } ]
+  }, {
+    "word" : "xingaras",
+    "description" : "Verbo transitivo direto e pronominal que significa insultar ou ofender verbalmente.",
+    "relations" : [ {
+      "synonym_of" : [ "insultar", "ofender", "injuriar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingares" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiar", "louvar" ]
+    } ]
+  }, {
+    "word" : "xingarás",
+    "description" : "Forma conjugada do verbo 'xingar' na segunda pessoa do singular do futuro do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultarás", "ofenderás" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingará" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiarás", "louvarás" ]
+    } ]
+  }, {
+    "word" : "xingardes",
+    "description" : "Forma verbal conjugada do verbo xingar, na 2ª pessoa do plural do presente do subjuntivo ou do futuro do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingares", "xingarmos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xingarei",
+    "description" : "Forma verbal do verbo 'xingar' na primeira pessoa do singular do futuro do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultarei" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingarei" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xingareis",
+    "description" : "Forma verbal do verbo 'xingar' na segunda pessoa do plural do futuro do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultareis", "ofendereis" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingareis", "xingareis" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiareis", "louvareis" ]
+    } ]
+  }, {
+    "word" : "xingáreis",
+    "description" : "Forma conjugada do verbo 'xingar' na 2ª pessoa do plural do futuro do pretérito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultaríeis", "ofenderíeis" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingareis" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiaríeis", "louvaríeis" ]
+    } ]
+  }, {
+    "word" : "xingarem",
+    "description" : "Forma do verbo xingar no futuro do subjuntivo ou infinitivo pessoal.",
+    "relations" : [ {
+      "synonym_of" : [ "insultarem", "ofenderem" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiarem", "louvarem" ]
+    } ]
+  }, {
+    "word" : "xingaremo",
+    "description" : "Uma forma conjugada do verbo 'xingar' na primeira pessoa do plural do futuro do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xingaremos",
+    "description" : "Forma verbal do verbo xingar na primeira pessoa do plural do futuro do presente do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultaremos", "ofenderemos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "singaremos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiaremos", "louvaremos" ]
+    } ]
+  }, {
+    "word" : "xingares",
+    "description" : "Proferir insultos ou ofensas verbais.",
+    "relations" : [ {
+      "synonym_of" : [ "insultar", "ofender" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiar", "louvar" ]
+    } ]
+  }, {
+    "word" : "xingaria",
+    "description" : "Ato ou efeito de xingar; insulto, palavrão.",
+    "relations" : [ {
+      "synonym_of" : [ "insulto", "palavrão", "ofensa" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "injúria", "difamação" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingamento" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogio", "cumprimento" ]
+    } ]
+  }, {
+    "word" : "xingariam",
+    "description" : "Forma verbal do verbo xingar, conjugada na 3ª pessoa do plural do futuro do pretérito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultariam", "ofenderiam" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingaram", "xingariam" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiaram", "louvariam" ]
+    } ]
+  }, {
+    "word" : "xingaríamos",
+    "description" : "Forma verbal do verbo xingar na primeira pessoa do plural do futuro do pretérito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultaríamos", "ofenderíamos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "amaldiçoaríamos", "blasfemaríamos" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingaremos", "xingávamos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiaríamos", "complementaríamos" ]
+    } ]
+  }, {
+    "word" : "xingarias",
+    "description" : "Ato de proferir xingamentos ou insultos.",
+    "relations" : [ {
+      "synonym_of" : [ "insultar", "ofender" ]
+    }, {
+      "hypernym_of" : [ "amaldiçoar", "difamar" ]
+    }, {
+      "hyponym_of" : [ "bradar", "injuriar" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingamento" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiar", "enaltecer" ]
+    } ]
+  }, {
+    "word" : "xingaríeis",
+    "description" : "Forma verbal do verbo 'xingar' conjugada na 2ª pessoa do plural do futuro do pretérito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xingarmo",
+    "description" : "Verbo informal que significa xingar, insultar ou ofender alguém.",
+    "relations" : [ {
+      "synonym_of" : [ "insultar", "ofender", "injuriar" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "xingar" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiar", "louvar" ]
+    } ]
+  }, {
+    "word" : "xingarmos",
+    "description" : "Forma do verbo 'xingar' na primeira pessoa do plural do futuro do subjuntivo ou do infinitivo pessoal.",
+    "relations" : [ {
+      "synonym_of" : [ "insultarmos", "ofendermos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingados", "xingaria" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiarmos", "louvamos" ]
+    } ]
+  }, {
+    "word" : "xingas",
+    "description" : "Ato de ofender alguém com palavras; insultos, palavrões.",
+    "relations" : [ {
+      "synonym_of" : [ "insultos", "ofensas", "palavrões" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "injúrias" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xinga" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogios" ]
+    } ]
+  }, {
+    "word" : "xingasse",
+    "description" : "Forma do verbo 'xingar' conjugada na primeira ou terceira pessoa do singular do pretérito imperfeito do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ "amaldiçoasse", "insultasse" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingassei", "xingassem" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiasse", "abençoasse" ]
+    } ]
+  }, {
+    "word" : "xingásseis",
+    "description" : "Forma verbal do verbo 'xingar' na segunda pessoa do plural do pretérito imperfeito do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingasse", "xingássemos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xingassem",
+    "description" : "Forma do verbo 'xingar' conjugada na 3ª pessoa do plural do pretérito imperfeito do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultassem", "ofendessem" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "chamassem", "xingassem" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiassem", "louvassem" ]
+    } ]
+  }, {
+    "word" : "xingássemos",
+    "description" : "Forma verbal do verbo xingar, na primeira pessoa do plural do pretérito imperfeito do subjuntivo.",
+    "relations" : [ {
+      "synonym_of" : [ "ofendêssemos", "insultássemos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiássemos", "louvássemos" ]
+    } ]
+  }, {
+    "word" : "xingasses",
+    "description" : "Forma do verbo xingar no pretérito imperfeito do subjuntivo, segunda pessoa do plural.",
+    "relations" : [ {
+      "synonym_of" : [ "insultasses", "ofendesses" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingásseis" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiasse", "louvasse" ]
+    } ]
+  }, {
+    "word" : "xingaste",
+    "description" : "Forma conjugada do verbo 'xingar' na segunda pessoa do singular do pretérito perfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultaste", "ofendeste" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "sangaste" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiaste", "louvaste" ]
+    } ]
+  }, {
+    "word" : "xingastes",
+    "description" : "Forma verbal do verbo 'xingar' conjugada na segunda pessoa do singular do pretérito perfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultastes", "ofendestes" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "xingaste" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiaste", "louvaste" ]
+    } ]
+  }, {
+    "word" : "xingava",
+    "description" : "Ação de proferir insultos ou ofensas verbais",
+    "relations" : [ {
+      "synonym_of" : [ "insultava", "ofendia" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "amaldiçoava" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingaria" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiar", "louvar" ]
+    } ]
+  }, {
+    "word" : "xingavam",
+    "description" : "Ação de dirigir palavras ofensivas ou insultos a alguém.",
+    "relations" : [ {
+      "synonym_of" : [ "insultavam", "ofendiam" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingamento" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiavam", "louvavam" ]
+    } ]
+  }, {
+    "word" : "xingávamos",
+    "description" : "Forma do verbo 'xingar' conjugada na primeira pessoa do plural do pretérito imperfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultávamos", "ofendíamos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiávamos", "louvávamos" ]
+    } ]
+  }, {
+    "word" : "xingavas",
+    "description" : "Forma do verbo 'xingar' na segunda pessoa do singular do pretérito imperfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultavas", "ofendias" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingais", "xingava" ]
+    }, {
+      "troponym_of" : [ "amaldiçoavas" ]
+    }, {
+      "antonym_of" : [ "elogiavas", "louvavas" ]
+    } ]
+  }, {
+    "word" : "xingáveis",
+    "description" : "Palavra no plural que se refere a algo ou alguém que pode ser alvo de xingamentos.",
+    "relations" : [ {
+      "synonym_of" : [ "amaldiçoáveis", "insultáveis" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingado", "xingamento" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiáveis", "admiráveis" ]
+    } ]
+  }, {
+    "word" : "xingo",
+    "description" : "Ato de proferir palavras ofensivas ou insultos.",
+    "relations" : [ {
+      "synonym_of" : [ "insulto", "ofensa", "impropério" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "blasfêmia", "injúria" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogio", "louvor" ]
+    } ]
+  }, {
+    "word" : "xingou",
+    "description" : "Ato de proferir insultos ou palavras ofensivas.",
+    "relations" : [ {
+      "synonym_of" : [ "insultou", "ofendeu" ]
+    }, {
+      "hypernym_of" : [ "reclamou", "criticar" ]
+    }, {
+      "hyponym_of" : [ "injuriou", "difamou" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "singou" ]
+    }, {
+      "troponym_of" : [ "amaldiçoou", "blasfemou" ]
+    }, {
+      "antonym_of" : [ "elogiou", "louvou" ]
+    } ]
+  }, {
+    "word" : "xingue",
+    "description" : "Forma do verbo xingar, que significa proferir insultos ou ofensas verbais.",
+    "relations" : [ {
+      "synonym_of" : [ "insulte", "ofenda" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "amaldiçoe", "ofenda" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xinga" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogie", "cumprimente" ]
+    } ]
+  }, {
+    "word" : "xinguei",
+    "description" : "Forma do verbo 'xingar' conjugada na primeira pessoa do singular do pretérito perfeito do indicativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultei", "ofendi" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiei", "cumprimentei" ]
+    } ]
+  }, {
+    "word" : "xingueis",
+    "description" : "Forma do verbo xingar na segunda pessoa do plural do presente do subjuntivo ou do imperativo negativo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xinguem",
+    "description" : "Forma verbal do verbo 'xingar' na terceira pessoa do plural do presente do subjuntivo ou do imperativo",
+    "relations" : [ {
+      "synonym_of" : [ "insultem", "ofendam" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingam", "xinguei" ]
+    }, {
+      "troponym_of" : [ "esbravejem", "amaldiçoem" ]
+    }, {
+      "antonym_of" : [ "elogiem", "louvem" ]
+    } ]
+  }, {
+    "word" : "xinguemo",
+    "description" : "Um termo específico de uma língua ou dialeto indígena brasileiro, que pode não ter uma tradução ou relação direta com palavras em português.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xinguemos",
+    "description" : "Forma do verbo 'xingar' na primeira pessoa do plural do presente do subjuntivo ou do imperativo.",
+    "relations" : [ {
+      "synonym_of" : [ "ofendamos", "insultemos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingamos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogiar" ]
+    } ]
+  }, {
+    "word" : "xingues",
+    "description" : "Forma verbal do verbo 'xingar', na segunda pessoa do singular do presente do subjuntivo ou do imperativo negativo.",
+    "relations" : [ {
+      "synonym_of" : [ "insultes", "ofendas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "verbalizes", "expreses" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xingue", "xinguei" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "elogies", "complimentes" ]
+    } ]
+  }, {
+    "word" : "xintoísmo",
+    "description" : "Xintoísmo é uma religião tradicional do Japão, caracterizada pela veneração de espíritos da natureza e ancestrais, bem como pela realização de rituais e festivais.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "religião" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xintoísta",
+    "description" : "Relativo ao xintoísmo ou pessoa que segue o xintoísmo, uma religião tradicional do Japão.",
+    "relations" : [ {
+      "synonym_of" : [ "shintoísta" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "religioso" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "não xintoísta" ]
+    } ]
+  }, {
+    "word" : "xintoístas",
+    "description" : "Pessoas que seguem o xintoísmo, uma religião tradicional do Japão que envolve a adoração de kami (espíritos ou deuses).",
+    "relations" : [ {
+      "synonym_of" : [ "shintoístas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "seguidores de religiões japonesas" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "xintoísmo" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "não-xintoístas" ]
+    } ]
+  }, {
+    "word" : "xisto",
+    "description" : "Xisto é uma rocha metamórfica de granulação fina a média, composta principalmente de minerais de mica, que se caracteriza por sua capacidade de se dividir em folhas ou lâminas.",
+    "relations" : [ {
+      "synonym_of" : [ "ardósia" ]
+    }, {
+      "hypernym_of" : [ "rocha metamórfica" ]
+    }, {
+      "hyponym_of" : [ "filito" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xistoso" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xistos",
+    "description" : "Xistos são rochas metamórficas formadas principalmente por minerais em camadas ou lâminas, como mica, clorita e quartzo.",
+    "relations" : [ {
+      "synonym_of" : [ "ardósia" ]
+    }, {
+      "hypernym_of" : [ "rocha metamórfica" ]
+    }, {
+      "hyponym_of" : [ "micaxisto", "clorita-xisto" ]
+    }, {
+      "meronym_of" : [ "mica", "clorita", "quartzo" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "xisto" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xucra",
+    "description" : "Termo usado no português brasileiro, especialmente em regiões do Sul do Brasil, para descrever um animal que é selvagem ou não domesticado, especialmente cavalos.",
+    "relations" : [ {
+      "synonym_of" : [ "selvagem", "bravio" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "animal" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "manso", "domesticado" ]
+    } ]
+  }, {
+    "word" : "xucras",
+    "description" : "A palavra 'xucras' não é reconhecida no vocabulário padrão do português. Pode ser um regionalismo, gíria ou neologismo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "xucro",
+    "description" : "Termo utilizado no Brasil, especialmente na região sul, para descrever algo ou alguém que é selvagem, indomado ou rústico.",
+    "relations" : [ {
+      "synonym_of" : [ "selvagem", "indomado", "rústico" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "domesticado", "civilizado", "manso" ]
+    } ]
+  }, {
+    "word" : "xucros",
+    "description" : "Termo coloquial usado no Brasil para descrever pessoas que são ingênuas ou inexperientes, especialmente em relação a situações sociais ou amorosas.",
+    "relations" : [ {
+      "synonym_of" : [ "ingênuos", "inexperientes" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "experientes", "astutos" ]
+    } ]
+  } ]
+}

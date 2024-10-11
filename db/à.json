@@ -1,0 +1,123 @@
+{
+  "à" : [ {
+    "word" : "à",
+    "description" : "Preposição que indica a ideia de movimento, direção, lugar, tempo, modo, entre outros.",
+    "relations" : [ {
+      "synonym_of" : [ "para", "em direção a" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "a", "há" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "àquela",
+    "description" : "Pronome demonstrativo utilizado para indicar algo ou alguém que está distante no espaço ou no tempo em relação a quem fala e a quem ouve.",
+    "relations" : [ {
+      "synonym_of" : [ "aquela" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "àquelas",
+    "description" : "Forma pronominal demonstrativa feminina plural, usada para indicar algo ou alguém que está distante no espaço ou no tempo, ou para retomar algo já mencionado anteriormente.",
+    "relations" : [ {
+      "synonym_of" : [ "aquelas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "àquele",
+    "description" : "Pronome demonstrativo utilizado para indicar algo ou alguém que está distante no espaço ou no tempo em relação ao falante e ao ouvinte.",
+    "relations" : [ {
+      "synonym_of" : [ "àquela", "àquilo" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "aquele", "aquela", "aquilo" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "este", "esse" ]
+    } ]
+  }, {
+    "word" : "àqueles",
+    "description" : "Forma contraída da preposição 'a' com o pronome demonstrativo 'aqueles', usada para indicar direção, destino ou relação.",
+    "relations" : [ {
+      "synonym_of" : [ "aos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "àquelas" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "às",
+    "description" : "Contração da preposição 'a' com o artigo definido feminino plural 'as'.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  } ]
+}

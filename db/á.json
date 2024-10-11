@@ -1,0 +1,1663 @@
+{
+  "á" : [ {
+    "word" : "ábaco",
+    "description" : "Instrumento antigo utilizado para realizar cálculos matemáticos, composto por uma moldura com bastões ou fios onde se movem contas ou esferas.",
+    "relations" : [ {
+      "synonym_of" : [ "conta-corrente", "calculadora antiga" ]
+    }, {
+      "hypernym_of" : [ "instrumento de cálculo" ]
+    }, {
+      "hyponym_of" : [ "ábaco chinês", "sorobã" ]
+    }, {
+      "meronym_of" : [ "conta", "bastão", "moldura" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ábacos",
+    "description" : "Instrumentos de cálculo utilizados desde a antiguidade, consistindo em uma moldura com barras ou fios nos quais se movem contas ou discos.",
+    "relations" : [ {
+      "synonym_of" : [ "contadores" ]
+    }, {
+      "hypernym_of" : [ "instrumentos de cálculo" ]
+    }, {
+      "hyponym_of" : [ "ábaco romano", "ábaco chinês", "ábaco japonês" ]
+    }, {
+      "meronym_of" : [ "contas", "barras", "moldura" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "abacaxi", "abacate" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ábside",
+    "description" : "Parte de uma igreja, geralmente semicircular, que se projeta da extremidade do coro ou da nave.",
+    "relations" : [ {
+      "synonym_of" : [ "abside" ]
+    }, {
+      "hypernym_of" : [ "estrutura", "parte de uma igreja" ]
+    }, {
+      "hyponym_of" : [ "capela-mor", "coro" ]
+    }, {
+      "meronym_of" : [ "igreja" ]
+    }, {
+      "holonym_of" : [ "coro", "nave" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ábsides",
+    "description" : "Plural de ábside, que se refere a uma estrutura semicircular ou poligonal, geralmente na extremidade de uma igreja, onde se encontra o altar.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "estruturas arquitetônicas", "partes de uma igreja" ]
+    }, {
+      "hyponym_of" : [ "ábside" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "igreja" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ácaro",
+    "description" : "Ácaro é um artrópode pertencente à classe Arachnida e à subclasse Acari. Eles são geralmente pequenos e podem ser encontrados em uma variedade de ambientes, incluindo solo, água doce e salgada, e como parasitas em plantas e animais.",
+    "relations" : [ {
+      "synonym_of" : [ "ácarido" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "carrapato", "sarna", "ácaro-da-poeira" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "aracnídeo" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ácaros",
+    "description" : "Pequenos aracnídeos que pertencem à ordem Acarina, conhecidos por sua diversidade e por incluir espécies que podem ser parasitas.",
+    "relations" : [ {
+      "synonym_of" : [ "ácaro" ]
+    }, {
+      "hypernym_of" : [ "aracnídeo", "artrópode" ]
+    }, {
+      "hyponym_of" : [ "sarna", "carrapato" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "acaríase", "acaricida" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ácida",
+    "description" : "Que tem sabor ou características de ácido.",
+    "relations" : [ {
+      "synonym_of" : [ "azeda", "acética" ]
+    }, {
+      "hypernym_of" : [ "ácido" ]
+    }, {
+      "hyponym_of" : [ "cítrica", "acética" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ácido" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "básica", "alcalina" ]
+    } ]
+  }, {
+    "word" : "ácidas",
+    "description" : "Que possui sabor ou característica de ácido.",
+    "relations" : [ {
+      "synonym_of" : [ "azedas", "amargas" ]
+    }, {
+      "hypernym_of" : [ "saborosas" ]
+    }, {
+      "hyponym_of" : [ "cítricas", "vinagrosas" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ácidos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "doces" ]
+    } ]
+  }, {
+    "word" : "ácido",
+    "description" : "Substância química que, em solução aquosa, libera íons de hidrogênio (H+), geralmente caracterizada por um sabor azedo e pela capacidade de neutralizar bases.",
+    "relations" : [ {
+      "synonym_of" : [ "ácido sulfúrico", "ácido clorídrico" ]
+    }, {
+      "hypernym_of" : [ "ácido cítrico", "ácido acético" ]
+    }, {
+      "hyponym_of" : [ "substância química" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ácido (adjetivo)" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "base", "alcalino" ]
+    } ]
+  }, {
+    "word" : "ácidos",
+    "description" : "Substâncias químicas que, em solução aquosa, liberam íons de hidrogênio (H+), geralmente têm sabor azedo e podem reagir com bases para formar sais.",
+    "relations" : [ {
+      "synonym_of" : [ "acidulantes" ]
+    }, {
+      "hypernym_of" : [ "ácido clorídrico", "ácido sulfúrico", "ácido acético" ]
+    }, {
+      "hyponym_of" : [ "substâncias químicas" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ácido" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "bases" ]
+    } ]
+  }, {
+    "word" : "África",
+    "description" : "Segundo maior continente da Terra, localizado ao sul da Europa e limitado a oeste pelo Oceano Atlântico, a leste pelo Oceano Índico e ao norte pelo Mar Mediterrâneo.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "continente" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ "países africanos", "regiões africanas" ]
+    }, {
+      "holonym_of" : [ "Mundo" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ágape",
+    "description" : "Ágape é uma palavra de origem grega que significa amor incondicional, amor divino ou amor altruísta, frequentemente utilizado em contextos religiosos ou espirituais.",
+    "relations" : [ {
+      "synonym_of" : [ "amor incondicional", "amor altruísta", "amor divino" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ódio", "indiferença" ]
+    } ]
+  }, {
+    "word" : "ágapes",
+    "description" : "Refeições festivas ou banquetes, geralmente de caráter religioso ou comunitário.",
+    "relations" : [ {
+      "synonym_of" : [ "banquetes", "festins" ]
+    }, {
+      "hypernym_of" : [ "jantares", "refeições" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ágape" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ágata",
+    "description" : "Ágata é uma variedade de quartzo, geralmente caracterizada por suas bandas coloridas e padrões únicos.",
+    "relations" : [ {
+      "synonym_of" : [ "calcedônia" ]
+    }, {
+      "hypernym_of" : [ "pedra preciosa", "mineral" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ágatas",
+    "description" : "Ágatas são variedades de quartzo, geralmente com faixas coloridas, usadas como pedras semipreciosas.",
+    "relations" : [ {
+      "synonym_of" : [ "calcedônia" ]
+    }, {
+      "hypernym_of" : [ "pedras preciosas", "minerais" ]
+    }, {
+      "hyponym_of" : [ "ágata musgosa", "ágata dendrítica", "ágata de fogo" ]
+    }, {
+      "meronym_of" : [ "quartzo" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "água", "agata" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "diamante", "rubi" ]
+    } ]
+  }, {
+    "word" : "ágeis",
+    "description" : "Que possuem agilidade; rápidos, ligeiros, velozes.",
+    "relations" : [ {
+      "synonym_of" : [ "rápidos", "ligeiros", "velozes" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ágil" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "lentos", "pesados" ]
+    } ]
+  }, {
+    "word" : "ágil",
+    "description" : "Que possui facilidade e rapidez de movimento; ligeiro, rápido.",
+    "relations" : [ {
+      "synonym_of" : [ "rápido", "ligeiro", "veloz" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "água", "ágilmente" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "lento", "devagar" ]
+    } ]
+  }, {
+    "word" : "ágio",
+    "description" : "Diferença entre o valor nominal de um título e o seu valor de mercado quando este é superior ao primeiro.",
+    "relations" : [ {
+      "synonym_of" : [ "prêmio", "sobrepreço" ]
+    }, {
+      "hypernym_of" : [ "diferença de valor" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "deságio" ]
+    } ]
+  }, {
+    "word" : "ágios",
+    "description" : "Ágios são os valores adicionais cobrados sobre o preço de um título ou mercadoria, geralmente em operações financeiras.",
+    "relations" : [ {
+      "synonym_of" : [ "prêmio", "sobrepreço" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "deságio" ]
+    } ]
+  }, {
+    "word" : "água",
+    "description" : "Substância líquida, incolor, insípida e inodora, essencial para a vida, composta por hidrogênio e oxigênio (H2O).",
+    "relations" : [ {
+      "synonym_of" : [ "h2o" ]
+    }, {
+      "hypernym_of" : [ "líquido" ]
+    }, {
+      "hyponym_of" : [ "água potável", "água mineral", "água do mar", "água doce" ]
+    }, {
+      "meronym_of" : [ "hidrogênio", "oxigênio" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "água (verbo aguar)" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "fogo", "terra" ]
+    } ]
+  }, {
+    "word" : "águas",
+    "description" : "Substância líquida transparente, inodora, insípida e essencial para a vida, composta por hidrogênio e oxigênio (H2O)",
+    "relations" : [ {
+      "synonym_of" : [ "líquido", "fluido" ]
+    }, {
+      "hypernym_of" : [ "rio", "mar", "oceano", "lago", "chuva" ]
+    }, {
+      "hyponym_of" : [ "substância", "elemento químico" ]
+    }, {
+      "meronym_of" : [ "gota", "vapor", "gelo" ]
+    }, {
+      "holonym_of" : [ "rio", "mar", "oceano", "lago" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "águia",
+    "description" : "Ave de rapina diurna, pertencente à família Accipitridae, conhecida por sua visão aguçada e habilidades de voo.",
+    "relations" : [ {
+      "synonym_of" : [ "águia-real", "águia-de-cabeça-branca" ]
+    }, {
+      "hypernym_of" : [ "ave de rapina", "pássaro" ]
+    }, {
+      "hyponym_of" : [ "águia-careca", "águia-dourada" ]
+    }, {
+      "meronym_of" : [ "asas", "bico", "garras" ]
+    }, {
+      "holonym_of" : [ "Accipitridae", "Aves" ]
+    }, {
+      "paronym_of" : [ "água" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "águias",
+    "description" : "Águias são aves de rapina de grande porte, pertencentes à família Accipitridae.",
+    "relations" : [ {
+      "synonym_of" : [ "águia" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "harpia", "águia-dourada", "águia-americana" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "Accipitridae" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "álamo",
+    "description" : "Uma árvore de folha caduca, pertencente ao gênero Populus, conhecida por suas folhas tremulantes e tronco alto e reto.",
+    "relations" : [ {
+      "synonym_of" : [ "choupo" ]
+    }, {
+      "hypernym_of" : [ "Populus" ]
+    }, {
+      "hyponym_of" : [ "álamo-branco", "álamo-negro", "álamo-tremedor" ]
+    }, {
+      "meronym_of" : [ "folha de álamo", "tronco de álamo" ]
+    }, {
+      "holonym_of" : [ "floresta de álamos" ]
+    }, {
+      "paronym_of" : [ "alamo (sem acento, que pode se referir a outro conceito)" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "álamos",
+    "description" : "Álamos são árvores pertencentes ao gênero Populus, conhecidas por suas folhas tremulantes e troncos altos e esguios.",
+    "relations" : [ {
+      "synonym_of" : [ "choupos" ]
+    }, {
+      "hypernym_of" : [ "árvores" ]
+    }, {
+      "hyponym_of" : [ "Populus alba", "Populus nigra", "Populus tremula" ]
+    }, {
+      "meronym_of" : [ "folhas", "troncos" ]
+    }, {
+      "holonym_of" : [ "floresta", "bosque" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "álbum",
+    "description" : "Uma coleção de gravações musicais lançadas como uma única unidade, geralmente em formato de disco de vinil, CD ou digital.",
+    "relations" : [ {
+      "synonym_of" : [ "disco", "compilação" ]
+    }, {
+      "hypernym_of" : [ "LP", "EP" ]
+    }, {
+      "hyponym_of" : [ "compilação de músicas", "álbum de estúdio", "álbum ao vivo" ]
+    }, {
+      "meronym_of" : [ "faixa", "música" ]
+    }, {
+      "holonym_of" : [ "coleção de álbuns", "discografia" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "álbuns",
+    "description" : "Substantivo masculino plural que se refere a coleções de fotografias, selos, músicas ou outros itens organizados em um livro ou conjunto.",
+    "relations" : [ {
+      "synonym_of" : [ "coleções" ]
+    }, {
+      "hypernym_of" : [ "álbum de fotos", "álbum de selos", "álbum de música" ]
+    }, {
+      "hyponym_of" : [ "coleção" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "álbum" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "álcool",
+    "description" : "Substância química composta que pode ser usada como solvente, combustível ou em bebidas alcoólicas.",
+    "relations" : [ {
+      "synonym_of" : [ "etanol" ]
+    }, {
+      "hypernym_of" : [ "bebida alcoólica", "solvente", "combustível" ]
+    }, {
+      "hyponym_of" : [ "etanol", "metanol", "isopropanol" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "álcoolico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "água" ]
+    } ]
+  }, {
+    "word" : "álgebra",
+    "description" : "Ramo da matemática que lida com símbolos e as regras para manipular esses símbolos.",
+    "relations" : [ {
+      "synonym_of" : [ "algebrismo" ]
+    }, {
+      "hypernym_of" : [ "álgebra linear", "álgebra abstrata", "álgebra booleana" ]
+    }, {
+      "hyponym_of" : [ "matemática" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "álgida" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "álgebras",
+    "description" : "Ramo da matemática que lida com estruturas, relações e quantidades.",
+    "relations" : [ {
+      "synonym_of" : [ "matemática abstrata" ]
+    }, {
+      "hypernym_of" : [ "álgebra linear", "álgebra abstrata", "álgebra booleana" ]
+    }, {
+      "hyponym_of" : [ "matemática" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "algoritmo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "álibi",
+    "description" : "Uma prova ou argumento que demonstra que uma pessoa estava em outro lugar no momento em que um crime foi cometido, servindo como defesa contra uma acusação.",
+    "relations" : [ {
+      "synonym_of" : [ "escusa", "justificativa" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "álibi" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "acusação" ]
+    } ]
+  }, {
+    "word" : "álibis",
+    "description" : "Plural da palavra álibi, que se refere a uma prova ou justificativa que demonstra a inocência de alguém em relação a um crime, geralmente mostrando que a pessoa estava em outro lugar no momento do crime.",
+    "relations" : [ {
+      "synonym_of" : [ "justificativas", "provas de inocência" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "evidências de culpa" ]
+    } ]
+  }, {
+    "word" : "Álvares",
+    "description" : "Álvares é um sobrenome de origem portuguesa.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ápice",
+    "description" : "O ponto mais alto ou culminante; o auge, o clímax.",
+    "relations" : [ {
+      "synonym_of" : [ "cume", "pico", "auge", "clímax" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "base", "fundo" ]
+    } ]
+  }, {
+    "word" : "ápices",
+    "description" : "Plural de ápice, que significa o ponto mais alto ou culminante de algo.",
+    "relations" : [ {
+      "synonym_of" : [ "cumes", "picos", "vértices" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "cume", "pico", "vértice" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ápice" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "bases", "fundos" ]
+    } ]
+  }, {
+    "word" : "árabe",
+    "description" : "Relativo à Arábia, ao seu povo ou à sua língua.",
+    "relations" : [ {
+      "synonym_of" : [ "arábico" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "saudita", "jordaniano", "iraquiano" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "povo árabe" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "árabes",
+    "description" : "Relativo aos povos ou culturas da região da Península Arábica e áreas adjacentes.",
+    "relations" : [ {
+      "synonym_of" : [ "arábicos" ]
+    }, {
+      "hypernym_of" : [ "beduínos", "emiratis", "sauditas", "jordanianos", "iraquianos" ]
+    }, {
+      "hyponym_of" : [ "povos do Oriente Médio" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "Península Arábica" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ocidentais" ]
+    } ]
+  }, {
+    "word" : "árbitro",
+    "description" : "Pessoa que tem a função de aplicar as regras e assegurar a ordem em competições esportivas.",
+    "relations" : [ {
+      "synonym_of" : [ "juiz" ]
+    }, {
+      "hypernym_of" : [ "mediador" ]
+    }, {
+      "hyponym_of" : [ "juiz de futebol", "juiz de vôlei" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "árbitra" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "jogador" ]
+    } ]
+  }, {
+    "word" : "árbitros",
+    "description" : "Pessoas que têm a função de aplicar as regras e manter a ordem em competições esportivas.",
+    "relations" : [ {
+      "synonym_of" : [ "juízes", "mediadores" ]
+    }, {
+      "hypernym_of" : [ "juiz de futebol", "juiz de vôlei", "juiz de basquete" ]
+    }, {
+      "hyponym_of" : [ "oficiais de competição" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "jogadores", "competidores" ]
+    } ]
+  }, {
+    "word" : "árdua",
+    "description" : "Que exige grande esforço ou sacrifício; difícil, penosa.",
+    "relations" : [ {
+      "synonym_of" : [ "difícil", "penosa", "laboriosa" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "árduo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "fácil", "simples" ]
+    } ]
+  }, {
+    "word" : "árduas",
+    "description" : "Que requerem grande esforço físico ou mental; difíceis, penosas.",
+    "relations" : [ {
+      "synonym_of" : [ "difíceis", "penosas", "trabalhosas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "árdua" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "fáceis", "simples", "leves" ]
+    } ]
+  }, {
+    "word" : "árduo",
+    "description" : "Que exige grande esforço; difícil, penoso.",
+    "relations" : [ {
+      "synonym_of" : [ "difícil", "penoso", "trabalhoso" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "desafiador" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ardor" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "fácil", "simples" ]
+    } ]
+  }, {
+    "word" : "árduos",
+    "description" : "Que exige grande esforço; difícil, penoso.",
+    "relations" : [ {
+      "synonym_of" : [ "difícil", "penoso", "trabalhoso" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "arduoso" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "fácil", "simples" ]
+    } ]
+  }, {
+    "word" : "área",
+    "description" : "Espaço delimitado ou superfície de um lugar.",
+    "relations" : [ {
+      "synonym_of" : [ "zona", "região", "superfície" ]
+    }, {
+      "hypernym_of" : [ "setor", "campo", "segmento" ]
+    }, {
+      "hyponym_of" : [ "bairro", "parcela", "lote" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "areia" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "áreas",
+    "description" : "Plural de 'área', que se refere a uma extensão de superfície ou a um campo de conhecimento.",
+    "relations" : [ {
+      "synonym_of" : [ "zonas", "regiões", "campos" ]
+    }, {
+      "hypernym_of" : [ "setores", "divisões" ]
+    }, {
+      "hyponym_of" : [ "bairros", "distritos" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "área" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ária",
+    "description" : "Uma composição musical geralmente escrita para um solista e acompanhada por instrumentos, frequentemente encontrada em óperas.",
+    "relations" : [ {
+      "synonym_of" : [ "canção", "melodia" ]
+    }, {
+      "hypernym_of" : [ "cavatina", "recitativo" ]
+    }, {
+      "hyponym_of" : [ "peça musical" ]
+    }, {
+      "meronym_of" : [ "ópera" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "área" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "árias",
+    "description" : "Árias são composições musicais para voz solo, geralmente com acompanhamento instrumental, que fazem parte de óperas, oratórios e cantatas.",
+    "relations" : [ {
+      "synonym_of" : [ "canções", "melodias" ]
+    }, {
+      "hypernym_of" : [ "óperas", "oratórios", "cantatas" ]
+    }, {
+      "hyponym_of" : [ "romanza", "cavatina" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "áurea", "área" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "árida",
+    "description" : "Que é seca, estéril ou desprovida de umidade.",
+    "relations" : [ {
+      "synonym_of" : [ "seca", "estéril", "desértica" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "árido" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "úmida", "fértil" ]
+    } ]
+  }, {
+    "word" : "áridas",
+    "description" : "Que possui pouca ou nenhuma umidade; seco.",
+    "relations" : [ {
+      "synonym_of" : [ "secas", "desertas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "desérticas" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "áridos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "úmidas", "férteis" ]
+    } ]
+  }, {
+    "word" : "árido",
+    "description" : "Que é seco, estéril ou desprovido de umidade.",
+    "relations" : [ {
+      "synonym_of" : [ "seco", "estéril", "desértico" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "árida" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "úmido", "fértil" ]
+    } ]
+  }, {
+    "word" : "áridos",
+    "description" : "Característica de algo que é seco, sem umidade ou desprovido de vegetação.",
+    "relations" : [ {
+      "synonym_of" : [ "secos", "desérticos" ]
+    }, {
+      "hypernym_of" : [ "desérticos" ]
+    }, {
+      "hyponym_of" : [ "secos" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "úmidos", "férteis" ]
+    } ]
+  }, {
+    "word" : "ártica",
+    "description" : "Relativo ao Ártico, a região em torno do Polo Norte.",
+    "relations" : [ {
+      "synonym_of" : [ "ártico" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "antártica" ]
+    } ]
+  }, {
+    "word" : "árticas",
+    "description" : "Relativo ao Ártico, região polar do norte da Terra.",
+    "relations" : [ {
+      "synonym_of" : [ "ártico", "polar", "norte" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "região polar" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "antárticas" ]
+    } ]
+  }, {
+    "word" : "ártico",
+    "description" : "Relativo ao Polo Norte ou às regiões próximas a ele.",
+    "relations" : [ {
+      "synonym_of" : [ "polar", "norte" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "antártico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "antártico" ]
+    } ]
+  }, {
+    "word" : "árticos",
+    "description" : "Relativo ao Polo Norte ou às regiões próximas a ele.",
+    "relations" : [ {
+      "synonym_of" : [ "ártico", "polar" ]
+    }, {
+      "hypernym_of" : [ "região polar", "zona ártica" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "Polo Norte" ]
+    }, {
+      "paronym_of" : [ "ártico", "árticas" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "antárticos" ]
+    } ]
+  }, {
+    "word" : "árvore",
+    "description" : "Uma planta perene com tronco lenhoso que se ramifica a certa altura do solo.",
+    "relations" : [ {
+      "synonym_of" : [ "planta arbórea" ]
+    }, {
+      "hypernym_of" : [ "carvalho", "pinheiro", "eucalipto" ]
+    }, {
+      "hyponym_of" : [ "planta", "organismo" ]
+    }, {
+      "meronym_of" : [ "tronco", "folha", "galho" ]
+    }, {
+      "holonym_of" : [ "floresta", "bosque" ]
+    }, {
+      "paronym_of" : [ "árvoredo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "árvores",
+    "description" : "Plantas de grande porte, com tronco lenhoso, que se ramificam a certa altura do solo.",
+    "relations" : [ {
+      "synonym_of" : [ "plantas arbóreas" ]
+    }, {
+      "hypernym_of" : [ "carvalhos", "pinheiros", "eucaliptos", "mangueiras", "abacateiros" ]
+    }, {
+      "hyponym_of" : [ "vegetais", "plantas" ]
+    }, {
+      "meronym_of" : [ "tronco", "galhos", "folhas", "raízes" ]
+    }, {
+      "holonym_of" : [ "florestas", "bosques" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "Ásia",
+    "description" : "Ásia é o maior dos continentes, tanto em área como em população, localizado principalmente no hemisfério oriental e no hemisfério norte.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "Eurásia", "Oriente" ]
+    }, {
+      "hyponym_of" : [ "continente" ]
+    }, {
+      "meronym_of" : [ "países asiáticos", "regiões da Ásia", "subcontinente indiano", "Oriente Médio", "Sudeste Asiático", "Extremo Oriente" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "áspera",
+    "description" : "Que tem superfície rugosa; que não é liso.",
+    "relations" : [ {
+      "synonym_of" : [ "rugosa", "irregular" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "asperar", "asperidade" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "lisa", "suave" ]
+    } ]
+  }, {
+    "word" : "ásperas",
+    "description" : "Que apresenta uma superfície rugosa, não lisa ao tato.",
+    "relations" : [ {
+      "synonym_of" : [ "rugosas", "irregulares" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "aspira", "aspargo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "lisas", "suaves" ]
+    } ]
+  }, {
+    "word" : "áspero",
+    "description" : "Que tem superfície rugosa ou irregular ao tato; que é rude, severo ou desagradável.",
+    "relations" : [ {
+      "synonym_of" : [ "rugoso", "irregular", "rude", "severo", "desagradável" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "áspera" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "suave", "macio" ]
+    } ]
+  }, {
+    "word" : "ásperos",
+    "description" : "que tem superfície rugosa ou irregular; que não é suave ou macio ao toque; que é severo ou duro.",
+    "relations" : [ {
+      "synonym_of" : [ "rugosos", "irregulares", "severos", "duros" ]
+    }, {
+      "hypernym_of" : [ "rugosidade", "irregularidade", "severidade", "dureza" ]
+    }, {
+      "hyponym_of" : [ "áspero" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "áspero" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "suaves", "macios", "lisas" ]
+    } ]
+  }, {
+    "word" : "Átila",
+    "description" : "Nome próprio, geralmente referindo-se a Átila, o Huno, líder dos hunos no século V.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "átomo",
+    "description" : "A menor unidade de um elemento químico que mantém as propriedades desse elemento.",
+    "relations" : [ {
+      "synonym_of" : [ "partícula" ]
+    }, {
+      "hypernym_of" : [ "núcleo", "elétron", "próton", "nêutron" ]
+    }, {
+      "hyponym_of" : [ "molécula" ]
+    }, {
+      "meronym_of" : [ "núcleo", "elétron" ]
+    }, {
+      "holonym_of" : [ "molécula" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "átomos",
+    "description" : "Partículas fundamentais da matéria que consistem em um núcleo de prótons e nêutrons, cercado por uma nuvem de elétrons.",
+    "relations" : [ {
+      "synonym_of" : [ "partículas", "elementos" ]
+    }, {
+      "hypernym_of" : [ "prótons", "nêutrons", "elétrons" ]
+    }, {
+      "hyponym_of" : [ "matéria" ]
+    }, {
+      "meronym_of" : [ "moléculas" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "átona",
+    "description" : "Que não tem acento tônico; que não é tônica.",
+    "relations" : [ {
+      "synonym_of" : [ "inacentuada", "fraca" ]
+    }, {
+      "hypernym_of" : [ "silenciosa" ]
+    }, {
+      "hyponym_of" : [ "silábica átona" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "atona" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "tônica" ]
+    } ]
+  }, {
+    "word" : "átonas",
+    "description" : "Palavra ou sílaba que não recebe acentuação tônica.",
+    "relations" : [ {
+      "synonym_of" : [ "inacentuadas", "não tônicas" ]
+    }, {
+      "hypernym_of" : [ "sílabas átonas", "palavras átonas" ]
+    }, {
+      "hyponym_of" : [ "átonas iniciais", "átonas intermediárias", "átonas finais" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "tônicas" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "tônicas" ]
+    } ]
+  }, {
+    "word" : "átono",
+    "description" : "Que não possui acentuação tônica; que não é tônico.",
+    "relations" : [ {
+      "synonym_of" : [ "inacentuado", "não tônico" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "monossílabo átono", "oxítono átono" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "tônico" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "tônico" ]
+    } ]
+  }, {
+    "word" : "átonos",
+    "description" : "Que não possui acentuação tônica, sem tonicidade.",
+    "relations" : [ {
+      "synonym_of" : [ "inacentuados" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "monossílabos átonos", "vogais átonas" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "tônicos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "tônicos" ]
+    } ]
+  }, {
+    "word" : "átrio",
+    "description" : "Espaço ou sala de entrada em um edifício, especialmente em igrejas e outros edifícios públicos.",
+    "relations" : [ {
+      "synonym_of" : [ "vestíbulo", "hall", "entrada" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "foyer" ]
+    }, {
+      "meronym_of" : [ "edifício", "igreja" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "átrios",
+    "description" : "Átrios são as câmaras superiores do coração que recebem o sangue que retorna ao coração de outras partes do corpo.",
+    "relations" : [ {
+      "synonym_of" : [ "aurículas" ]
+    }, {
+      "hypernym_of" : [ "câmaras cardíacas" ]
+    }, {
+      "hyponym_of" : [ "átrio direito", "átrio esquerdo" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "coração" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "ventrículos" ]
+    } ]
+  }, {
+    "word" : "áurea",
+    "description" : "Relativo a ouro ou que possui características associadas ao ouro, como brilho, valor ou excelência.",
+    "relations" : [ {
+      "synonym_of" : [ "dourada", "áureo" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "áureo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "pobre", "sem brilho" ]
+    } ]
+  }, {
+    "word" : "áureas",
+    "description" : "Adjetivo feminino plural de 'áurea', que significa algo dourado ou relacionado a ouro.",
+    "relations" : [ {
+      "synonym_of" : [ "douradas", "áureas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "douradas" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "áureos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "opacas" ]
+    } ]
+  }, {
+    "word" : "áureo",
+    "description" : "Que tem a cor ou o brilho do ouro; dourado, reluzente.",
+    "relations" : [ {
+      "synonym_of" : [ "dourado", "reluzente", "ouro" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "áurea" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "opaco", "desbotado" ]
+    } ]
+  }, {
+    "word" : "áureos",
+    "description" : "Referente a algo que é feito de ouro ou que tem a cor do ouro. Pode também se referir a algo que é valioso ou de grande importância.",
+    "relations" : [ {
+      "synonym_of" : [ "dourados", "ouro" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "áurea" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "opacos", "comuns" ]
+    } ]
+  }, {
+    "word" : "Áustria",
+    "description" : "País localizado na Europa Central, conhecido oficialmente como República da Áustria.",
+    "relations" : [ {
+      "synonym_of" : [ "República da Áustria" ]
+    }, {
+      "hypernym_of" : [ "Viena", "Salzburgo", "Innsbruck" ]
+    }, {
+      "hyponym_of" : [ "País", "Nação" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "Europa Central" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ávida",
+    "description" : "Que tem um desejo intenso ou uma grande avidez por algo.",
+    "relations" : [ {
+      "synonym_of" : [ "ansiosa", "desejosa", "voraz" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "vida" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "desinteressada", "indiferente" ]
+    } ]
+  }, {
+    "word" : "ávidas",
+    "description" : "Que têm grande desejo ou avidez por algo.",
+    "relations" : [ {
+      "synonym_of" : [ "ansiosas", "desejosas", "cobiçosas" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ávido" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "desinteressadas", "indiferentes" ]
+    } ]
+  }, {
+    "word" : "ávido",
+    "description" : "Que tem grande desejo ou interesse por algo.",
+    "relations" : [ {
+      "synonym_of" : [ "ansioso", "desejoso", "cobiçoso" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ávida" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "desinteressado", "indiferente" ]
+    } ]
+  }, {
+    "word" : "ávidos",
+    "description" : "Que tem desejo intenso por algo; ansioso, sedento.",
+    "relations" : [ {
+      "synonym_of" : [ "ansiosos", "sedentos", "vorazes" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ávido" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "indiferentes", "desinteressados" ]
+    } ]
+  }, {
+    "word" : "Ávila",
+    "description" : "Ávila é uma cidade localizada na região central da Espanha, conhecida por suas muralhas medievais bem preservadas.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "cidade" ]
+    }, {
+      "hyponym_of" : [ "localidade", "região central da Espanha" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "Espanha" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ázimo",
+    "description" : "Que não contém fermento; usado especialmente para descrever pão sem fermento.",
+    "relations" : [ {
+      "synonym_of" : [ "sem fermento" ]
+    }, {
+      "hypernym_of" : [ "pão" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ásimo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "fermentado" ]
+    } ]
+  }, {
+    "word" : "ázimos",
+    "description" : "Pão sem fermento, geralmente utilizado em contextos religiosos.",
+    "relations" : [ {
+      "synonym_of" : [ "pão ázimo", "pão sem fermento" ]
+    }, {
+      "hypernym_of" : [ "pão" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "pão fermentado" ]
+    } ]
+  } ]
+}

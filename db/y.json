@@ -1,0 +1,23 @@
+{
+  "y" : [ {
+    "word" : "York",
+    "description" : "York é uma cidade histórica localizada no norte da Inglaterra, conhecida por sua catedral gótica, a York Minster, e suas muralhas medievais.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ "cidade", "localidade", "município" ]
+    }, {
+      "hyponym_of" : [ "cidade histórica", "cidade inglesa" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "Inglaterra", "Reino Unido" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  } ]
+}

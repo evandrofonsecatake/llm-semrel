@@ -1,0 +1,383 @@
+{
+  "â" : [ {
+    "word" : "âmago",
+    "description" : "O âmago é a parte mais interna ou essencial de algo, o núcleo ou cerne.",
+    "relations" : [ {
+      "synonym_of" : [ "cerne", "núcleo", "essência" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "superfície", "periferia" ]
+    } ]
+  }, {
+    "word" : "âmbar",
+    "description" : "Resina fóssil de árvores coníferas, geralmente amarelada, utilizada em joalheria e na fabricação de objetos ornamentais.",
+    "relations" : [ {
+      "synonym_of" : [ "ambarino" ]
+    }, {
+      "hypernym_of" : [ "resina" ]
+    }, {
+      "hyponym_of" : [ "âmbar báltico", "âmbar dominicano" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ambarino" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "âmbito",
+    "description" : "O termo 'âmbito' refere-se ao espaço ou esfera de atuação, influência ou competência de algo ou alguém.",
+    "relations" : [ {
+      "synonym_of" : [ "esfera", "campo", "área", "alcance" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "âmbitos",
+    "description" : "A palavra 'âmbitos' refere-se a áreas ou esferas de atuação, influência, conhecimento, etc.",
+    "relations" : [ {
+      "synonym_of" : [ "esferas", "áreas", "campos" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "âncora",
+    "description" : "Objeto pesado usado para manter uma embarcação fixa em um local.",
+    "relations" : [ {
+      "synonym_of" : [ "ferro" ]
+    }, {
+      "hypernym_of" : [ "âncora de almirantado", "âncora de arado", "âncora de cogumelo" ]
+    }, {
+      "hyponym_of" : [ "equipamento náutico", "dispositivo de fixação" ]
+    }, {
+      "meronym_of" : [ "corrente", "cabo" ]
+    }, {
+      "holonym_of" : [ "embarcação", "navio" ]
+    }, {
+      "paronym_of" : [ "ancorar" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "âncoras",
+    "description" : "Instrumento utilizado para fixar embarcações ao fundo do mar ou de um rio.",
+    "relations" : [ {
+      "synonym_of" : [ "ferros" ]
+    }, {
+      "hypernym_of" : [ "ancorotes", "ancorinhas" ]
+    }, {
+      "hyponym_of" : [ "dispositivos de fixação" ]
+    }, {
+      "meronym_of" : [ "correntes", "cabos" ]
+    }, {
+      "holonym_of" : [ "embarcações", "navios" ]
+    }, {
+      "paronym_of" : [ "âncora" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "boias" ]
+    } ]
+  }, {
+    "word" : "ânfora",
+    "description" : "Um vaso de origem grega ou romana, geralmente com duas alças e um corpo alongado, utilizado para armazenar líquidos como vinho ou óleo.",
+    "relations" : [ {
+      "synonym_of" : [ "vaso" ]
+    }, {
+      "hypernym_of" : [ "recipiente" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ânforas",
+    "description" : "Vasos grandes, geralmente de cerâmica, com duas alças e uma boca estreita, usados na antiguidade para armazenar líquidos como vinho e azeite.",
+    "relations" : [ {
+      "synonym_of" : [ "vasos antigos" ]
+    }, {
+      "hypernym_of" : [ "vasos" ]
+    }, {
+      "hyponym_of" : [ "ânfora romana", "ânfora grega" ]
+    }, {
+      "meronym_of" : [ "alças", "boca estreita" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "Ângela",
+    "description" : "Nome próprio feminino.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "Ângelo",
+    "description" : "Nome próprio de pessoa, geralmente masculino.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "Angela" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ângulo",
+    "description" : "A figura formada por duas semirretas que têm a mesma origem.",
+    "relations" : [ {
+      "synonym_of" : [ "canto" ]
+    }, {
+      "hypernym_of" : [ "ângulo reto", "ângulo agudo", "ângulo obtuso" ]
+    }, {
+      "hyponym_of" : [ "figura geométrica" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ângulo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ângulos",
+    "description" : "Figura geométrica formada por duas semirretas que partem de um mesmo ponto.",
+    "relations" : [ {
+      "synonym_of" : [ "vértices" ]
+    }, {
+      "hypernym_of" : [ "ângulo reto", "ângulo agudo", "ângulo obtuso" ]
+    }, {
+      "hyponym_of" : [ "figura geométrica" ]
+    }, {
+      "meronym_of" : [ "triângulo", "quadrado" ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "ânimo",
+    "description" : "Estado de disposição, espírito, coragem ou vontade de realizar algo.",
+    "relations" : [ {
+      "synonym_of" : [ "espírito", "disposição", "vontade", "coragem" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ânima" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "desânimo" ]
+    } ]
+  }, {
+    "word" : "ânimos",
+    "description" : "Estado de espírito, disposição emocional ou mental de uma pessoa.",
+    "relations" : [ {
+      "synonym_of" : [ "espírito", "moral", "vontade", "disposição" ]
+    }, {
+      "hypernym_of" : [ "humor", "ânimo" ]
+    }, {
+      "hyponym_of" : [ "estado de espírito", "disposição emocional" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "animoso" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "desânimo" ]
+    } ]
+  }, {
+    "word" : "ânodo",
+    "description" : "Polo positivo de uma célula eletroquímica onde ocorre a oxidação.",
+    "relations" : [ {
+      "synonym_of" : [ "anódio" ]
+    }, {
+      "hypernym_of" : [ "polo positivo" ]
+    }, {
+      "hyponym_of" : [ "eletrodo" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "cátodo" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "cátodo" ]
+    } ]
+  }, {
+    "word" : "ânodos",
+    "description" : "Parte de um dispositivo eletrônico por onde os elétrons entram.",
+    "relations" : [ {
+      "synonym_of" : [ "eletrodo positivo" ]
+    }, {
+      "hypernym_of" : [ "terminal", "polo" ]
+    }, {
+      "hyponym_of" : [ "ânodo de sacrifício", "ânodo de grafite" ]
+    }, {
+      "meronym_of" : [ "célula eletroquímica", "tubo de raios catódicos" ]
+    }, {
+      "holonym_of" : [ "dispositivo eletrônico" ]
+    }, {
+      "paronym_of" : [ "cátodos" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "cátodos" ]
+    } ]
+  }, {
+    "word" : "ânsia",
+    "description" : "Um sentimento de grande inquietação, ansiedade ou desejo intenso.",
+    "relations" : [ {
+      "synonym_of" : [ "ansiedade", "aflição", "angústia" ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ "ânsia", "ansiedade" ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "calma", "tranquilidade" ]
+    } ]
+  }, {
+    "word" : "ânsias",
+    "description" : "Desejos intensos ou angústias profundas.",
+    "relations" : [ {
+      "synonym_of" : [ "anseios", "desejos", "angústias" ]
+    }, {
+      "hypernym_of" : [ "desejos", "angústias" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ "calma", "tranquilidade" ]
+    } ]
+  }, {
+    "word" : "ânus",
+    "description" : "Abertura terminal do intestino por onde são expelidos os resíduos digestivos.",
+    "relations" : [ {
+      "synonym_of" : [ "reto (em alguns contextos)" ]
+    }, {
+      "hypernym_of" : [ "orifício", "abertura" ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ "sistema digestivo", "trato gastrointestinal" ]
+    }, {
+      "holonym_of" : [ "esfíncter anal" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  } ]
+}

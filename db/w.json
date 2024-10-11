@@ -1,0 +1,43 @@
+{
+  "w" : [ {
+    "word" : "walter",
+    "description" : "Nome próprio masculino de origem germânica.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  }, {
+    "word" : "Waterloo",
+    "description" : "A palavra 'Waterloo' pode se referir a uma cidade na Bélgica famosa pela Batalha de Waterloo, ou pode ser usada metaforicamente para descrever uma derrota decisiva.",
+    "relations" : [ {
+      "synonym_of" : [ ]
+    }, {
+      "hypernym_of" : [ ]
+    }, {
+      "hyponym_of" : [ "cidade", "batalha" ]
+    }, {
+      "meronym_of" : [ ]
+    }, {
+      "holonym_of" : [ "Bélgica" ]
+    }, {
+      "paronym_of" : [ ]
+    }, {
+      "troponym_of" : [ ]
+    }, {
+      "antonym_of" : [ ]
+    } ]
+  } ]
+}
